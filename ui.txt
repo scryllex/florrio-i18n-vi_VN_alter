@@ -1,157 +1,153 @@
-UI/Language/Name=English (US)
+UI/Language/Name=Tiếng Việt (VIE)
 # These are the translators that worked on this translation. Separate with <n/>
-UI/Language/Credits=
+UI/Language/Credits=Furaken<n/>NullArea
 
-UI/Title/Loading=Loading...
-UI/Title/Connecting=Connecting...
-UI/Title/LoggingIn=Logging in...
-UI/Title/Ready=Ready
-UI/Title/GuestName=Guest
-UI/Title/GuestLimitation=You can choose a nickname once you link an account or get level {0}.
-UI/Title/Name/Bad=Your nickname was reset, please choose a new one.
-UI/Title/Name/AlreadyTaken=Nickname already taken.
-UI/Title/Name/InternalError=Internal error, try again later.
+UI/Title/Loading=Đang tải...
+UI/Title/Connecting=Đang kết nối...
+UI/Title/LoggingIn=Đang đăng nhập...
+UI/Title/Ready=Sẵn sàng
+UI/Title/GuestName=Khách
+UI/Title/GuestLimitation=Bạn có thể sử dụng nickname khi bạn đã liên kết tài khoản hoặc đạt đến cấp {0}.
+UI/Title/Name/Bad=Nickname của bạn đã được cài lại, hãy chọn một cái mới.
+UI/Title/Name/AlreadyTaken=Nickname đã được sử dụng.
+UI/Title/Name/InternalError=Lỗi nội bộ, vui lòng thử lại sau.
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
-UI/Title/Biome/0=Garden
-UI/Title/Biome/1=Desert
-UI/Title/Biome/2=Ocean
-UI/Title/Biome/3=Jungle
-UI/Title/Biome/4=Hel
+UI/Title/Biome/0=Khu Vuờn
+UI/Title/Biome/1=Sa Mạc
+UI/Title/Biome/2=Đại Dương
+UI/Title/Biome/3=Rừng Rậm
+UI/Title/Biome/4=Địa Ngục
 
-UI/Login/Title=Account
-UI/Login/PlayAsGuest=Play as guest
-UI/Login/SignInApple=Sign in with Apple
-UI/Login/SignInDiscord=Sign in with Discord
-UI/Login/Logout=Logout
-UI/Login/AccountID=Account ID:
-UI/Login/Connecting=(connecting)
-UI/Login/GuestName=Guest
-UI/Login/GuestInfo=If you already have a guest account in this device,<n/>signing in will link that account and keep your progress.
-UI/Login/LinkInfo=You can link your account to<n/>keep your progress across devices.
-UI/Login/Linked=Linked
-UI/Login/SupportPIN=Support PIN: {0}
-UI/Login/SupportPINHidden=Support PIN: (click to show)
-UI/Login/SupportPINInstructions1=Save this in case you lose access to your account
-UI/Login/SupportPINInstructions2=Do not share your support PIN with anyone
-UI/Login/Reminder=Link your account to save your progress
+UI/Login/Title=Tài khoản
+UI/Login/PlayAsGuest=Chơi với tư cách là khách
+UI/Login/SignInApple=Đăng nhập bằng tài khoản Apple
+UI/Login/SignInDiscord=Đăng nhập bằng tài khoản Discord
+UI/Login/Logout=Đăng xuất
+UI/Login/AccountID=ID Tài khoản:
+UI/Login/Connecting=(đang tải)
+UI/Login/GuestName=Khách
+UI/Login/GuestInfo=Nếu bạn đã có tài khoản khách trên thiết bị này,<n/>đăng nhập vào sẽ liên kết tài khoản đó và vẫn sẽ lưu tiến trình của bạn.
+UI/Login/LinkInfo=Bạn có thể liên kết tài khoản của bạn để<n/>lưu tiến trình của bạn.
+UI/Login/Linked=Đã liên kết
+UI/Login/SupportPIN=PIN hỗ trợ: {0}
+UI/Login/SupportPINHidden=PIN hỗ trợ: (nhấn để hiển thị)
+UI/Login/SupportPINInstructions1=Lưu mã này phòng khi bạn mất truy cập
+UI/Login/SupportPINInstructions2=Đừng chia sẽ mã PIN hỗ trợ với bất kì ai
+UI/Login/Reminder=Liên kết tài khoản để lưu tiến trình
 
-UI/Social/Discord=Join our Discord community!
+UI/Social/Discord=Tham gia cộng đồng Discord của chúng tôi!
 UI/Social/QQ=加入我们的QQ群!
 
-UI/AbandonGame=Abandon game
-UI/Reconnecting=Connection lost, reconnecting...
+UI/AbandonGame=Thoát game
+UI/Reconnecting=Mất kết nối, đang kết nối lại...
 
-UI/LevelBar/Level=Lvl {0}
-UI/LevelBar/LevelLong=Lvl {0} Flower
+UI/LevelBar/Level=Cấp {0}
+UI/LevelBar/LevelLong=Cấp {0}
 UI/LevelBar/XP={0}/{1} XP
 
-UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
-UI/Scoreboard/Title/1=1 Flower
-UI/Scoreboard/Title/N={0} Flowers
-UI/Scoreboard/HiddenName=Player #{0}
+UI/Scoreboard/Title={0} Bông Hoa
+UI/Scoreboard/HiddenName=Người chơi #{0}
 
-UI/Chat/PromptTap=Tap here to chat
-UI/Chat/PromptClick=Click here to chat
-UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
-UI/Chat/Player/Block=Block
-UI/Chat/Player/ReportMessage=Report message
+UI/Chat/PromptTap=Nhấn vào đây để trò chuyện
+UI/Chat/PromptClick=Nhấn vào đây để trò chuyện
+UI/Chat/PromptKeyboardOrClick=Nhấn [ENTER] hoặc vào đây để nhắn
+UI/Chat/Player/Block=Chặn
+UI/Chat/Player/ReportMessage=Báo cáo tin nhắn
 
-UI/Flower/Level=Lvl {0}
+UI/Flower/Level=Cấp {0}
 
-UI/Death/Title=You were destroyed by:
-UI/Death/NoSource=A mysterious entity
-UI/Death/Continue=Continue
-UI/Death/Close=Close
-UI/Death/CollectedThisRun=Collected this run
+UI/Death/Title=Bạn vừa bị tiêu diệt bởi:
+UI/Death/NoSource=Một thực thể bí ẩn
+UI/Death/Continue=Tiếp tục
+UI/Death/Close=Đóng
+UI/Death/CollectedThisRun=Vật phẩm rơi trong lượt này
 
-UI/AFKCheck/Title=AFK Check
-UI/AFKCheck/Instructions=Drag the circle until the end
+UI/AFKCheck/Title=Kiểm tra AFK
+UI/AFKCheck/Instructions=Kéo thả vòng tròn đến cuối đường
 
-UI/Achievements/Title=Achievements
-UI/Achievements/Reward=Reward
+UI/Achievements/Title=Thành tựu
+UI/Achievements/Reward=Phần thưởng
 UI/Achievements/RewardTP={0} TP
-UI/Achievements/Done=Done
-UI/Achievements/Track=Track
-UI/Achievements/TrackAutomatically=Track automatically
+UI/Achievements/Done=Đã hoàn thành
+UI/Achievements/Track=Theo dõi
+UI/Achievements/TrackAutomatically=Tự động theo dõi
 UI/Achievements/Hidden=???
-UI/Achievements/TotalProgress={0}/{1} completed
+UI/Achievements/TotalProgress=Đã hoàn thành {0}/{1}
 
-UI/MobGallery/Title=Mob Gallery
+UI/MobGallery/Title=Phòng trưng bày Quái
 
-UI/Changelog/Title=Changelog
-UI/Changelog/Bottom=Older changelog entries not available
+UI/Changelog/Title=Nhật ký Thay đổi
+UI/Changelog/Bottom=Không có Nhật ký cũ hơn
 
-UI/Inventory/Title=Inventory
-UI/Inventory/Stack=Stack
-UI/Inventory/Instructions=Drag a petal to equip it
-UI/Inventory/Speed=Speed
+UI/Inventory/Title=Túi đồ
+UI/Inventory/Stack=Chồng lên nhau
+UI/Inventory/Instructions=Kéo thả một cánh hoa để trang bị nó
+UI/Inventory/Speed=Tốc
 
-UI/Guild/Title=Guild
-UI/Guild/NoGuild=You don't have a guild yet
-UI/Guild/Invite=You've been invited to:
-UI/Guild/Invite/Button=Accept
-UI/Guild/Invite/Expiration=This invitation will expire soon if not accepted
-UI/Guild/ChatSetting=Chat
-UI/Guild/SquadButton=Squad
-UI/Guild/KickButton=Kick
-UI/Guild/Leader=(Leader)
-UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
-UI/Guild/Members/1=Member (1)
-UI/Guild/Members/N=Members ({0})
-UI/Guild/LeaveButton=Leave
-UI/Guild/Leave/Title=Leave guild
-UI/Guild/Leave/Instructions=Are you sure?
-UI/Guild/Leave/Confirm=Leave
-UI/Guild/Leave/Cancel=Cancel
+UI/Guild/Title=Hội
+UI/Guild/NoGuild=Bạn vẫn chưa có hội
+UI/Guild/Invite=Bạn vừa được mời vào:
+UI/Guild/Invite/Button=Chấp nhận
+UI/Guild/Invite/Expiration=Lời mời này sẽ sớm hết hạn nếu không được chấp nhận
+UI/Guild/ChatSetting=Trò chuyện
+UI/Guild/SquadButton=Đội
+UI/Guild/KickButton=Mời ra
+UI/Guild/Leader=(Thủ Lĩnh)
+UI/Guild/Members=Thành viên ({0})
+UI/Guild/LeaveButton=Rời
+UI/Guild/Leave/Title=Rời hội
+UI/Guild/Leave/Instructions=Bạn chắc chứ?
+UI/Guild/Leave/Confirm=Rời
+UI/Guild/Leave/Cancel=Hủy
 
-UI/Squad/Title=Squad
-UI/Squad/Error/NotAllowed=Squads not allowed in this mode
-UI/Squad/Error/Spam=You're doing that too much
-UI/Squad/Error/DoesNotExist=Squad does not exist
-UI/Squad/Error/CannotJoin=You can't join this squad
-UI/Squad/Error/LevelDifference=Your level isn't close enough to the squad level
-UI/Squad/Error/Full=Squad is full
+UI/Squad/Title=Đội
+UI/Squad/Error/NotAllowed=Chế độ này không cho phép đội
+UI/Squad/Error/Spam=Bạn đang làm nó quá nhiều lần
+UI/Squad/Error/DoesNotExist=Đội không tồn tại
+UI/Squad/Error/CannotJoin=Bạn không thể tham gia đội này
+UI/Squad/Error/LevelDifference=Cấp độ của bạn chưa đủ so với cấp độ chung của đội
+UI/Squad/Error/Full=Đội đã đầy
 
-UI/Shop/Title=Shop
-UI/Shop/Button=Shop
-UI/Shop/Instructions=Today's offers:
-UI/Shop/TimeLeft=Store will change {0:timeLeft}
-UI/Shop/Lock=Lock
-UI/Shop/LockedChanged=Store will change once unlocked.
-UI/Shop/LockedNoChange=Store will not change while locked.
-UI/Shop/StarsHelp1=You gain stars by completing challenges, or you can
-UI/Shop/StarsHelp2=buy some by clicking the number on the right.
-UI/Shop/MustLink1=To make any purchases, you must first
-UI/Shop/MustLink2=link your account to Discord or Apple.
-UI/Shop/MustLinkCancel=Cancel
-UI/Shop/BuyStars/Instructions=In case of any issues with your purchase,<n/>please contact our payment processor:<n/>support@xsolla.com or live chat at xsolla.com.
-UI/Shop/BuyStars/Extra=I have too much money
-UI/Shop/BuyStars/Cancel=Cancel
-UI/Shop/BuyPetal/Title=Confirm
-UI/Shop/BuyPetal/Instructions=Are you sure you want to buy this?<n/><c val="{#Colors/danger}">Petal purchases are not refundable</c>
-UI/Shop/BuyPetal/Cancel=Cancel
-UI/Shop/MagicPetalError/Title=Error
-UI/Shop/MagicPetalError/Instructions=You cannot buy magic petals<n/>until you have a {#Petals/{0}/FullName}.
-UI/Shop/MagicPetalError/Cancel=Cancel
-UI/Shop/Loyalty/Title=Thank you!
-UI/Shop/Loyalty/Instructions=As a thank you for your support,<n/>we'd like to give you some stars, for free.<n/><n/>This is the equivalent of what you'd have gotten had you spent<n/>the same amount of money you already did, but with larger packages.
-UI/Shop/Price/USD=${0}
+UI/Shop/Title=Cửa hàng
+UI/Shop/Button=Cửa hàng
+UI/Shop/Instructions=Ưu đãi trong ngày:
+UI/Shop/TimeLeft=Cửa hàng sẽ thay đổi {0:timeLeft}
+UI/Shop/Lock=Khóa
+UI/Shop/LockedChanged=Cửa hàng sẽ đổi sau khi mở khóa.
+UI/Shop/LockedNoChange=Cửa hàng sẽ không đổi trong khi bị khóa.
+UI/Shop/StarsHelp1=Bạn có thể thu thập các ngôi sao bằng cách hoàn thành thử thách,
+UI/Shop/StarsHelp2=hoặc bạn có thể mua một ít bằng cách nhấn vào số ở phía bên phải.
+UI/Shop/MustLink1=Để thực hiện dịch vụ mua hàng, trước tiên bạn cần
+UI/Shop/MustLink2=liên kết tài khoản với Discord hoặc Apple.
+UI/Shop/MustLinkCancel=Hủy
+UI/Shop/BuyStars/Instructions=Trong trường hộp có vấn đề với khoản mua của bạn,<n/>vui lòng liên hệ với bộ xử lý thanh toán của chúng tôi:<n/>support@xsolla.com hoặc trò chuyện trực tiếp tại xsolla.com.
+UI/Shop/BuyStars/Extra=Tôi có quá nhiều tiền
+UI/Shop/BuyStars/Cancel=Hủy
+UI/Shop/BuyPetal/Title=Xác nhận
+UI/Shop/BuyPetal/Instructions=Bạn chắc rằng là bạn muốn mua nó?<n/><c val="{#Colors/danger}">Không thể hoàn trả sau khi đã mua</c>
+UI/Shop/BuyPetal/Cancel=Hủy
+UI/Shop/MagicPetalError/Title=Lỗi
+UI/Shop/MagicPetalError/Instructions=Bạn không thể mua cánh hoa ma thuật<n/>cho đến khi bạn có {#Petals/{0}/FullName}.
+UI/Shop/MagicPetalError/Cancel=Hủy
+UI/Shop/Loyalty/Title=Cảm ơn!
+UI/Shop/Loyalty/Instructions=Như một lời cảm ơn vì sự ủng hộ của bạn,<n/>chúng tôi muốn tặng bạn một số ngôi sao miễn phí.<n/><n/>Đây là số tiền tương đương với số tiền bạn sẽ nhận được<n/>nếu bạn chi cùng số tiền bạn đã chi, nhưng với các gói lớn hơn.
+UI/Shop/Price/USD={0} USD
 
-UI/DailyChallenge/Title=Challenge
-UI/DailyChallenge/Button=Challenge
-UI/DailyChallenge/Instructions=Defeat these enemies:
-UI/DailyChallenge/TimeLeft=Challenges will change {0:timeLeft}
-UI/DailyChallenge/Claimed=Claimed
-UI/DailyChallenge/SupportersOnly=Challenge available<n/>for supporters only.
+UI/DailyChallenge/Title=Thử thách
+UI/DailyChallenge/Button=Thử thách
+UI/DailyChallenge/Instructions=Đánh bại những con quái sau:
+UI/DailyChallenge/TimeLeft=Thử thách sẽ đổi {0:timeLeft}
+UI/DailyChallenge/Claimed=Đã nhận
+UI/DailyChallenge/SupportersOnly=Thử thách chỉ dành<n/>cho người ủng hộ.
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
-UI/Petal/Reload1={0}s
-UI/Petal/Reload2={0}s + {1}s
+UI/Petal/Reload1={0} giây
+UI/Petal/Reload2={0} giây + {1} giây
 
 UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/SortName={#Mobs/{0:base}/Name}
@@ -165,101 +161,101 @@ UI/Achievements/SortName={#Achievements/{0}/Name:1-}
 UI/Achievements/Description={#Achievements/{0}/Description:1-}
 UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
 
-UI/Talent/Title=Talents
+UI/Talent/Title=Thiên Phú
 UI/Talent/Name={#Talents/{0}/Name:1-}
 UI/Talent/Description={#Talents/{0}/Description:1-}
 UI/Talent/Rarity={#Rarities/{0}/Name}
 UI/Talent/TP=TP
-UI/Talent/Tooltip=You can acquire more TP by leveling up
-UI/Talent/Reset=Reset
+UI/Talent/Tooltip=Bạn có thể giành được nhiều TP hơn bằng cách thăng cấp
+UI/Talent/Reset=Đặt lại
 
-UI/Craft/Title=Craft
-UI/Craft/Button=Craft
-UI/Craft/Chance={0:perc}% success chance
-UI/Craft/UnknownChance=?% success chance
-UI/Craft/CombineInstructions=Combine {0} of the same petal to craft an upgrade
-UI/Craft/FailureInstructions=Failure will destroy {0}-{1} petals
+UI/Craft/Title=Chế tạo
+UI/Craft/Button=Chế tạo
+UI/Craft/Chance={0:perc}% tỷ lệ thành công
+UI/Craft/UnknownChance=?% tỷ lệ thành công
+UI/Craft/CombineInstructions=Kết hợp {0} cánh hoa cùng loại để nâng cấp
+UI/Craft/FailureInstructions=Thất bại sẽ làm hỏng {0}-{1} cánh hoa
 
-UI/Absorb/Title=Absorb
-UI/Absorb/Button=Absorb
-UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="{#Colors/danger}">WARNING: The petals will be destroyed in the process</c>
+UI/Absorb/Title=Hấp thụ
+UI/Absorb/Button=Hấp thụ
+UI/Absorb/Instructions=Hấp thụ những cánh hoa để tăng XP<n/><c val="{#Colors/danger}">CẢNH BÁO: Những cánh hoa sẽ bị phá hủy trong quá trình này</c>
 
-UI/CoinCraft/Title=Trade
-UI/CoinCraft/Button=Trade
-UI/CoinCraft/Instructions=You can trade a petal for a coin of the same rarity
-UI/CoinCraft/Delay=You'll be able to trade again {0:timeLeft}
+UI/CoinCraft/Title=Trao đổi
+UI/CoinCraft/Button=Trao đổi
+UI/CoinCraft/Instructions=Bạn có thể đổi một cánh hoa cho một đồng cùng độ hiếm
+UI/CoinCraft/Delay=Bạn có thể đổi lần nữa trong {0:timeLeft}
 
-UI/OracleCraft/Title=Oracle
-UI/OracleCraft/Button=Craft
-UI/OracleCraft/Instructions=The Oracle will guarantee a craft... for the right price.
-UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
+UI/OracleCraft/Title=Tiên tri
+UI/OracleCraft/Button=Chế tạo
+UI/OracleCraft/Instructions=Nhà tiên tri sẽ đảm bảo cho một lần chế tạo... với mức giá phù hợp.
+UI/OracleCraft/Delay=Bạn có thể chế tạo lần nữa trong {0:timeLeft}
 
 UI/Plinko/Title=Plinko
-UI/Plinko/Auto=Auto
+UI/Plinko/Auto=Tự động
 
-UI/UniqueCraft/Title=Forge
-UI/UniqueCraft/Button=Forge
-UI/UniqueCraft/Instructions=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
-UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
+UI/UniqueCraft/Title=Rèn
+UI/UniqueCraft/Button=Rèn
+UI/UniqueCraft/Instructions=Những cánh hoa Độc quyền sẽ tồn tại cho đến khi người chơi khác rèn một cánh hoa cùng loại.<n/>Khi điều đó xảy ra, bạn sẽ nhận lại được những cánh hoa Siêu Đẳng.<n/>Chi phí rèn sẽ tăng cho mỗi lần rèn loại cánh hoa đó.
+UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa Siêu Đẳng nào để chế tạo.
 
-UI/Death/Poison=Poison
+UI/Death/Poison=Ngộ độc
 
-UI/Settings/Title=Settings
+UI/Settings/Title=Cài đặt
 UI/Settings/Game=Game
-UI/Settings/Graphics=Graphics
-UI/Settings/Controls=Controls
+UI/Settings/Graphics=Đồ họa
+UI/Settings/Controls=Điều khiển
 UI/Settings/Credits=Credits
 
-UI/Settings/Language=Language
-UI/Settings/Language/Warning=NOTE: will only take effect after game is restarted
-UI/Settings/Language/Automatic=Automatic
+UI/Settings/Language=Ngôn ngữ
+UI/Settings/Language/Warning=LƯU Ý: chỉ có tác dụng sau khi khởi động lại game
+UI/Settings/Language/Automatic=Tự động
 
-UI/Settings/Realm=Realm
+UI/Settings/Realm=Vùng
 UI/Settings/Realms={#UI/Settings/Realms/{0}}
-UI/Settings/Realms/0=Automatic
-UI/Settings/Realms/1=Juliett (US)
-UI/Settings/Realms/2=Romeo (EU)
-UI/Settings/Realms/3=Sierra (ASIA)
+UI/Settings/Realms/0=Tự động
+UI/Settings/Realms/1=Juliett (MỸ)
+UI/Settings/Realms/2=Romeo (CHÂU ÂU)
+UI/Settings/Realms/3=Sierra (CHÂU Á)
 
-UI/Settings/Chat=Chat
-UI/Settings/ChatWhispers=Chat Whispers
+UI/Settings/Chat=Trò chuyện
+UI/Settings/ChatWhispers=Trò chuyện thì thầm
 
-UI/Settings/AutoJoinSquads=Auto-join squads
+UI/Settings/AutoJoinSquads=Tự động tham gia đội
 
-UI/Settings/HideOtherPetals=Hide other petals
+UI/Settings/HideOtherPetals=Ẩn cánh hoa của người khác
 
-UI/Settings/EquipDrops=Equip drops
+UI/Settings/EquipDrops=Tự động trang bị
 
-UI/Settings/Quality=Quality
-UI/Settings/Quality/Low=Low
-UI/Settings/Quality/Medium=Medium
-UI/Settings/Quality/High=High
+UI/Settings/Quality=Đồ họa
+UI/Settings/Quality/Low=Thấp
+UI/Settings/Quality/Medium=Trung
+UI/Settings/Quality/High=Cao
 
-UI/Settings/ShowDamageNumbers=Show damage numbers
+UI/Settings/ShowDamageNumbers=Hiện chỉ số sát thương
 
-UI/Settings/ScreenShake=Screen shake
+UI/Settings/ScreenShake=Rung màn hình
 
-UI/Settings/LiveIcons=Live icons
+UI/Settings/LiveIcons=Biểu tượng chuyển động
 
-UI/Settings/TouchControls=Touch controls
+UI/Settings/TouchControls=Điều khiển cảm ứng
 
-UI/Settings/KeyboardMovement=Keyboard movement
+UI/Settings/KeyboardMovement=Điều khiển bàn phím
 
-UI/Settings/MovementHelper=Movement helper
+UI/Settings/MovementHelper=Đường Di chuyển
 
-UI/Settings/FixedJoystick=Fixed joystick
+UI/Settings/FixedJoystick=Cố định điều khiển
 
-UI/Settings/AutoSaveLoadout=Auto-save loadout
+UI/Settings/AutoSaveLoadout=Tự động lưu kho trang bị
 
-UI/Settings/PrivacyPolicy=Privacy Policy
-UI/Settings/TermsOfService=Terms of Service
+UI/Settings/PrivacyPolicy=Chính sách Bảo mật
+UI/Settings/TermsOfService=Điều khoản Dịch vụ
 
-UI/Credits/MadeBy=Made by {0}
-UI/Credits/SomeIcons=Some icons from {0}
-UI/Credits/SomeTiles=Some tiles from {0}
-UI/Credits/SpecialThanks=Special Thanks
-UI/Credits/Translators=Translators
+UI/Credits/MadeBy=Được tạo bởi {0}
+UI/Credits/SomeIcons=Một số biểu tượng từ {0}
+UI/Credits/SomeTiles=Một số nền từ {0}
+UI/Credits/SpecialThanks=Đặc biệt Cảm ơn
+UI/Credits/Translators=Người Phiên dịch
 
 # The little arrows around dead flowers
-UI/HelperText/Guild=Guild
-UI/HelperText/Squad=Squad
+UI/HelperText/Guild=Hội
+UI/HelperText/Squad=Đội

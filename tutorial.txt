@@ -1,7 +1,7 @@
-Tutorial/Start=<s val="1.5">Tutorial</s><n/><n/>You seem to be new here, let's get you through the basics.<n/>Click {#UI/Title/Ready} to start.
-Tutorial/End=<s val="1.5">Tutorial</s><n/><n/>That's it! Remember to use the inventory to equip and unequip petals.<n/>You can click a petal to equip/unequip it.<n/><n/>Keep expanding your petal collection and good luck!
-Tutorial/MustBeAlive=You must be alive to proceed in the tutorial.
-Tutorial/MustBeInGame=You must be in-game for this part of the tutorial, just click the big green {#UI/Title/Ready} button.
-Tutorial/MustLeaveGame=To proceed, abandon this game by clicking the abandon button on the top left.
-Tutorial/Next=Next
-Tutorial/Done=Done
+Tutorial/Start=<s val="1.5">Hướng dẫn</s><n/><n/>Có vẻ bạn là người mới, hãy cùng học những điều cơ bản nhé.<n/>Nhấn {#UI/Title/Ready} để bắt đầu.
+Tutorial/End=<s val="1.5">Hướng dẫn</s><n/><n/>Tốt lắm! Nhớ sử dụng túi đồ để trang bị hoặc tháo những cánh hoa.<n/>Bạn có thể nhấn một cánh hoa để trang bị/tháo nó.<n/><n/>Cứ tiếp tục thu thập thêm cánh hoa nhé, chúc may mắn!
+Tutorial/MustBeAlive=Bạn phải còn sống để tiếp tục phần hướng dẫn.
+Tutorial/MustBeInGame=Bạn phải vào game ở phần này, nhấn vào nút {#UI/Title/Ready} màu xanh.
+Tutorial/MustLeaveGame=Để tiếp tục, thoát khỏi trò chơi này bằng cách nhấn nào nút thoát ở phía trên cùng bên trái.
+Tutorial/Next=Tiếp
+Tutorial/Done=Hoàn thành

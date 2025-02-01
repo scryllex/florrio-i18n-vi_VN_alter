@@ -1,223 +1,282 @@
-Mobs/rock/Name=Rock
-Mobs/rock/Description=A rock. It doesn't do much.
-Mobs/rock/Spawn=Something mountain-like appears in the distance...
+Mobs/rock/Name=Tảng Đá
+Mobs/rock/Description=Một tảng đá. Nó không làm gì cả.
+Mobs/rock/Spawn=Có thứ gì đó giống như ngọn núi xuất hiện ở đằng xa...
 
-Mobs/cactus/Name=Cactus
-Mobs/cactus/Description=Avoid touching it, it hurts.
-Mobs/cactus/Spawn=A tower of thorns rises from the sands...
+Mobs/cactus/Name=Xương Rồng
+Mobs/cactus/Description=Tránh chạm vào nó, nó đau lắm.
+Mobs/cactus/Spawn=Một tòa tháp gai mọc lên từ bãi cát...
+Mobs/cactus/Type=plant
 
-Mobs/ladybug/Name=Ladybug
-Mobs/ladybug/Description=Cute and harmless.
+Mobs/ladybug/Name=Bọ Rùa
+Mobs/ladybug/Description=Dễ thương và vô hại.
+Mobs/ladybug/Type=moveable
 
-Mobs/bee/Name=Bee
-Mobs/bee/Description=It stings. Don't touch it.
+Mobs/bee/Name=Ong
+Mobs/bee/Description=Nó đốt đấy. Đừng chạm vào nó.
+Mobs/bee/Type=moveable
 
-Mobs/ant_baby/Name=Baby Ant
-Mobs/ant_baby/Description=Weak and defenseless, but big dreams.
+Mobs/ant_baby/Name=Kiến Con
+Mobs/ant_baby/Description=Yếu đuối và không có khả năng tự vệ, nhưng có những ước mơ lớn.
+Mobs/ant_baby/Type=moveable
 
-Mobs/ant_worker/Name=Worker Ant
-Mobs/ant_worker/Description=It's a bit temperamental, probably from working all the time.
+Mobs/ant_worker/Name=Kiến Thợ
+Mobs/ant_worker/Description=Tính tình hơi thất thường, có lẽ vì làm việc quá nhiều.
+Mobs/ant_worker/Type=moveable
 
-Mobs/ant_soldier/Name=Soldier Ant
-Mobs/ant_soldier/Description=It's got wings and it's ready to use them.
+Mobs/ant_soldier/Name=Kiến Lính
+Mobs/ant_soldier/Description=Nó có cánh và sẵn sàng sử dụng chúng.
+Mobs/ant_soldier/Type=moveable
 
-Mobs/ant_queen/Name=Queen Ant
-Mobs/ant_queen/Description=You must have done something really bad if she's chasing you.
+Mobs/ant_queen/Name=Kiến Chúa
+Mobs/ant_queen/Description=Chắc hẳn bạn đã làm gì đó rất tệ nếu cô ấy đang đuổi bạn.
+Mobs/ant_queen/Type=moveable
 
-Mobs/ant_hole/Name=Ant Hole
-Mobs/ant_hole/Description=Ants go in, and come out. Can't explain that.
+Mobs/ant_hole/Name=Tổ Kiến
+Mobs/ant_hole/Description=Kiến vào, rồi lại ra. Không ai có thể giải thích được điều đó.
 
-Mobs/beetle/Name=Beetle
-Mobs/beetle/Description=It's hungry and flowers are its favorite meal.
+Mobs/beetle/Name=Bọ Cánh Cứng
+Mobs/beetle/Description=Nó đói và hoa là bữa ăn yêu thích của nó.
+Mobs/beetle/Type=moveable
 
-Mobs/hornet/Name=Hornet
-Mobs/hornet/Description=These aren't quite as nice as the little bees.
-Mobs/hornet/Spawn=A big yellow spot shows up in the distance...
+Mobs/hornet/Name=Ong Vò Vẽ
+Mobs/hornet/Description=Những con này không dễ chịu như ong nhỏ đâu.
+Mobs/hornet/Spawn=Một đốm vàng lớn xuất hiện ở đằng xa...
+Mobs/hornet/Type=moveable
 
-Mobs/centipede/Name=Centipede
-Mobs/centipede/Description=It's just there doing its thing.
+Mobs/centipede/Name=Rết
+Mobs/centipede/Description=Nó chỉ đang làm việc của mình thôi.
+Mobs/centipede/Type=moveable
 
-Mobs/centipede_body/Name=Centipede
-Mobs/centipede_body/Description=It's just there doing its thing.
+Mobs/centipede_body/Name=Rết
+Mobs/centipede_body/Description=Nó chỉ đang làm việc của mình thôi.
+Mobs/centipede_body/Type=moveable
 
-Mobs/centipede_evil/Name=Centipede
-Mobs/centipede_evil/Description=This one loves flowers.
+Mobs/centipede_evil/Name=Rết
+Mobs/centipede_evil/Description=Con này rất thích hoa.
+Mobs/centipede_evil/Type=moveable
 
-Mobs/centipede_evil_body/Name=Centipede
-Mobs/centipede_evil_body/Description=This one loves flowers.
+Mobs/centipede_evil_body/Name=Rết
+Mobs/centipede_evil_body/Description=Con này rất thích hoa.
+Mobs/centipede_evil_body/Type=moveable
 
-Mobs/centipede_desert/Name=Centipede
-Mobs/centipede_desert/Description=Gotta go fast.
+Mobs/centipede_desert/Name=Rết
+Mobs/centipede_desert/Description=Chạy ngay đi...
+Mobs/centipede_desert/Type=moveable
 
-Mobs/centipede_desert_body/Name=Centipede
-Mobs/centipede_desert_body/Description=Gotta go fast.
+Mobs/centipede_desert_body/Name=Rết
+Mobs/centipede_desert_body/Description=Chạy ngay đi...
+Mobs/centipede_desert_body/Type=moveable
 
-Mobs/square/Name=Square
-Mobs/square/Description=This shape... it looks familiar...
+Mobs/square/Name=Hình Vuông
+Mobs/square/Description=Hình dạng này... nhìn quen quá...
 
-Mobs/ladybug_dark/Name=Ladybug
-Mobs/ladybug_dark/Description=Cute and harmless... if left unprovoked.
+Mobs/ladybug_dark/Name=Bọ Rùa
+Mobs/ladybug_dark/Description=Dễ thương và vô hại... nếu không bị khiêu khích.
+Mobs/ladybug_dark/Type=moveable
 
-Mobs/ladybug_shiny/Name=Ladybug
-Mobs/ladybug_shiny/Description=Shiny, cute and mostly harmless.
+Mobs/ladybug_shiny/Name=Bọ Rùa
+Mobs/ladybug_shiny/Description=Óng ánh, dễ thương và phần lớn là vô hại.
+Mobs/ladybug_shiny/Type=moveable
 
-Mobs/spider/Name=Spider
-Mobs/spider/Description=Spooky.
+Mobs/spider/Name=Nhện
+Mobs/spider/Description=Đáng sợ.
+Mobs/spider/Type=moveable
 
-Mobs/scorpion/Name=Scorpion
-Mobs/scorpion/Description=IT STINGS!
+Mobs/scorpion/Name=Bọ Cạp
+Mobs/scorpion/Description=CẨN THẬN BỊ CHÍCH!
+Mobs/scorpion/Type=moveable
 
-Mobs/fire_ant_soldier/Name=Soldier Fire Ant
-Mobs/fire_ant_soldier/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_soldier/Name=Kiến Lửa Lính
+Mobs/fire_ant_soldier/Description=Con kiến này đang bùng cháyyyyyyyy.
+Mobs/fire_ant_soldier/Type=moveable
 
-Mobs/fire_ant_burrow/Name=Fire Ant Burrow
-Mobs/fire_ant_burrow/Description=What could be in here?
+Mobs/fire_ant_burrow/Name=Tổ Kiến Lửa
+Mobs/fire_ant_burrow/Description=Có thể có gì đó ở trong đây?
 
-Mobs/sandstorm/Name=Sandstorm
+Mobs/sandstorm/Name=Bão Cát
 Mobs/sandstorm/Description=Darude (1999)
 
-Mobs/bubble/Name=Bubble
+Mobs/bubble/Name=Bong Bóng
 Mobs/bubble/Description=Pop
+Mobs/bubble/Type=sphere
 
-Mobs/bumble_bee/Name=Bumble Bee
-Mobs/bumble_bee/Description=GOTTA RUN.
+Mobs/bumble_bee/Name=Ong Nghệ
+Mobs/bumble_bee/Description=CHẠY NGAY ĐI.
+Mobs/bumble_bee/Type=moveable
 
-Mobs/shell/Name=Shell
-Mobs/shell/Description=Not an advertisement.
+Mobs/shell/Name=Sò
+Mobs/shell/Description=Đây không phải là chương trình quảng cáo.
+Mobs/shell/Type=moveable
 
-Mobs/starfish/Name=Starfish
-Mobs/starfish/Description=His name is Patrick.
+Mobs/starfish/Name=Sao Biển
+Mobs/starfish/Description=Tên của nó là Patrick.
+Mobs/starfish/Type=moveable
 
-Mobs/crab/Name=Crab
+Mobs/crab/Name=Cua
 Mobs/crab/Description=Mr. Crab.
+Mobs/crab/Type=moveable
 
-Mobs/jellyfish/Name=Jellyfish
-Mobs/jellyfish/Description=Makes the most delicious jam.
-Mobs/jellyfish/Spawn=You hear lightning strikes coming from a far distance...
+Mobs/jellyfish/Name=Sứa
+Mobs/jellyfish/Description=Làm loại mứt ngon nhất.
+Mobs/jellyfish/Spawn=Bạn nghe thấy tiếng sấm sét từ đằng xa...
+Mobs/jellyfish/Type=moveable
 
-Mobs/digger/Name=Digger
-Mobs/digger/Description=Wrong game, bud.
+Mobs/digger/Name=Thợ Đào
+Mobs/digger/Description=Nhầm game rồi, bạn à.
 
-Mobs/sponge/Name=Sponge
+Mobs/sponge/Name=Bọt Biển
 Mobs/sponge/Description=Bob.
+Mobs/sponge/Type=static
 
-Mobs/leech/Name=Leech
-Mobs/leech/Description=Slurp slurp.
+Mobs/leech/Name=Đỉa
+Mobs/leech/Description=Soạp soạp.
+Mobs/leech/Type=moveable
 
-Mobs/leech_body/Name=Leech
-Mobs/leech_body/Description=Slurp slurp.
+Mobs/leech_body/Name=Đỉa
+Mobs/leech_body/Description=Soạp soạp.
+Mobs/leech_body/Type=moveable
 
-Mobs/dandelion/Name=Dandelion
-Mobs/dandelion/Description=Puffy.
+Mobs/dandelion/Name=Bồ Công Anh
+Mobs/dandelion/Description=Mềm mại.
+Mobs/dandelion/Type=plant
 
-Mobs/fire_ant_baby/Name=Baby Fire Ant
-Mobs/fire_ant_baby/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_baby/Name=Kiến Lửa Con
+Mobs/fire_ant_baby/Description=Con kiến này đang bùng cháyyyyyyyy.
+Mobs/fire_ant_baby/Type=moveable
 
-Mobs/fire_ant_worker/Name=Worker Fire Ant
-Mobs/fire_ant_worker/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_worker/Name=Kiến Lửa Thợ
+Mobs/fire_ant_worker/Description=Con kiến này đang bùng cháyyyyyyyy.
+Mobs/fire_ant_worker/Type=moveable
 
-Mobs/fire_ant_queen/Name=Queen Fire Ant
-Mobs/fire_ant_queen/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_queen/Name=Kiến Lửa Chúa
+Mobs/fire_ant_queen/Description=Con kiến này đang bùng cháyyyyyyyy.
+Mobs/fire_ant_queen/Type=moveable
 
-Mobs/ant_egg/Name=Ant Egg
-Mobs/ant_egg/Description=Not yet an ant but perhaps soon.
+Mobs/ant_egg/Name=Trứng Kiến
+Mobs/ant_egg/Description=Chưa là kiến nhưng có thể sắp thành.
+Mobs/ant_egg/Type=sphere
 
-Mobs/fire_ant_egg/Name=Fire Ant Egg
-Mobs/fire_ant_egg/Description=This ant is not yet on fire.
+Mobs/fire_ant_egg/Name=Trứng Kiến Lửa
+Mobs/fire_ant_egg/Description=Con kiến này chưa bùng cháy.
+Mobs/fire_ant_egg/Type=sphere
 
-Mobs/fly/Name=Fly
+Mobs/fly/Name=Ruồi
 Mobs/fly/Description=Hzzzzzzzzzzzz.
+Mobs/fly/Type=moveable
 
-Mobs/leafbug/Name=Leafbug
-Mobs/leafbug/Description=It's not a leaf, but it is a bug.
+Mobs/leafbug/Name=Bọ Lá
+Mobs/leafbug/Description=Con này là bọ, chứ không phải lá.
+Mobs/leafbug/Type=moveable
 
-Mobs/mantis/Name=Mantis
-Mobs/mantis/Description=You better pray you don't become dinner.
+Mobs/mantis/Name=Bọ Ngựa
+Mobs/mantis/Description=Tốt nhất là cầu nguyện bạn không trở thành bữa tối.
+Mobs/mantis/Type=moveable
 
-Mobs/termite_baby/Name=Baby Termite
-Mobs/termite_baby/Description=Weak and defenseless, but big dreams.<n/>These creatures appear to be connected somehow.
+Mobs/termite_baby/Name=Mối Con
+Mobs/termite_baby/Description=Yếu đuối và không có khả năng tự vệ, nhưng có những ước mơ lớn.<n/>Những sinh vật này dường như có mối liên kết nào đó.
+Mobs/termite_baby/Type=moveable
 
-Mobs/termite_worker/Name=Worker Termite
-Mobs/termite_worker/Description=It's a bit temperamental, probably from working all the time.<n/>These creatures appear to be connected somehow.
+Mobs/termite_worker/Name=Mối Thợ
+Mobs/termite_worker/Description=Tính tình hơi thất thường, có lẽ vì làm việc quá nhiều.<n/Những sinh vật này dường như có mối liên kết nào đó.
+Mobs/termite_worker/Type=moveable
 
-Mobs/termite_soldier/Name=Soldier Termite
-Mobs/termite_soldier/Description=It's got wings and it's ready to use them.<n/>These creatures appear to be connected somehow.
+Mobs/termite_soldier/Name=Mối Lính
+Mobs/termite_soldier/Description=Nó có cánh và sẵn sàng sử dụng chúng.<n/Những sinh vật này dường như có mối liên kết nào đó.
+Mobs/termite_soldier/Type=moveable
 
-Mobs/termite_overmind/Name=Termite Overmind
-Mobs/termite_overmind/Description=The one who oversees all.
+Mobs/termite_overmind/Name=Chúa Tể Mối
+Mobs/termite_overmind/Description=Người giám sát tất cả.
+Mobs/termite_overmind/Type=moveable
 
-Mobs/termite_mound/Name=Termite Mound
-Mobs/termite_mound/Description=Termites go in, and come out. Can't explain that.
+Mobs/termite_mound/Name=Tổ Mối
+Mobs/termite_mound/Description=Mối vào, rồi lại ra. Không ai có thể giải thích được điều đó.
 
-Mobs/termite_egg/Name=Termite Egg
-Mobs/termite_egg/Description=Not yet a termite but perhaps soon.
+Mobs/termite_egg/Name=Trứng Mối
+Mobs/termite_egg/Description=Chưa là mối nhưng có thể sắp thành.
+Mobs/termite_egg/Type=sphere
 
-Mobs/bush/Name=Bush
-Mobs/bush/Description=Don't misunderestimate me.
+Mobs/bush/Name=Bụi Cây
+Mobs/bush/Description=Đừng đánh giá thấp tôi.
 
-Mobs/roach/Name=Roach
-Mobs/roach/Description=Gotta go FAST... until they get tired.
+Mobs/roach/Name=Gián
+Mobs/roach/Description=Phải chạy thật nhanh... cho đến khi chúng mệt.
+Mobs/roach/Type=moveable
 
-Mobs/moth/Name=Moth
-Mobs/moth/Description=Easily scared, be nice.
+Mobs/moth/Name=Bướm Đêm
+Mobs/moth/Description=Dễ bị hoảng sợ, hãy tử tế.
+Mobs/moth/Type=moveable
 
-Mobs/firefly/Name=Firefly
-Mobs/firefly/Description=Oooooh shiny.
-Mobs/firefly/Spawn=There's a bright light in the horizon...
+Mobs/firefly/Name=Đom Đóm
+Mobs/firefly/Description=Ồ... phát sáng.
+Mobs/firefly/Spawn=Có một ánh sáng rực rỡ ở phía chân trời...
+Mobs/firefly/Type=moveable
 
-Mobs/beetle_hel/Name=Beetle
-Mobs/beetle_hel/Description=Scourge that spawns in the other plane.
-Mobs/beetle_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/beetle_hel/Name=Bọ Cánh Cứng
+Mobs/beetle_hel/Description=Một tai họa xuất hiện từ cõi khác.
+Mobs/beetle_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
+Mobs/beetle_hel/Type=moveable
 
-Mobs/wasp/Name=Wasp
-Mobs/wasp/Description=They are ANGRY.
+Mobs/wasp/Name=Ong Bắp Cày
+Mobs/wasp/Description=Chúng rất GIẬN DỮ.
+Mobs/wasp/Type=moveable
 
-Mobs/dummy/Name=Target Dummy
-Mobs/dummy/Description=How do you have this in your gallery?
+Mobs/dummy/Name=Người Nộm
+Mobs/dummy/Description=Sao bạn lại có cái này trong bộ sưu tập?
 
-Mobs/spider_hel/Name=Spider
-Mobs/spider_hel/Description=Scourge that spawns in the other plane.
-Mobs/spider_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/spider_hel/Name=Nhện
+Mobs/spider_hel/Description=Một tai họa xuất hiện từ cõi khác.
+Mobs/spider_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
+Mobs/spider_hel/Type=moveable
 
-Mobs/centipede_hel/Name=Centipede
-Mobs/centipede_hel/Description=Scourge that spawns in the other plane.
-Mobs/centipede_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/centipede_hel/Name=Rết
+Mobs/centipede_hel/Description=Một tai họa xuất hiện từ cõi khác.
+Mobs/centipede_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
+Mobs/centipede_hel/Type=moveable
 
-Mobs/centipede_hel_body/Name=Centipede
-Mobs/centipede_hel_body/Description=Scourge that spawns in the other plane.
-Mobs/centipede_hel_body/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/centipede_hel_body/Name=Rết
+Mobs/centipede_hel_body/Description=Một tai họa xuất hiện từ cõi khác.
+Mobs/centipede_hel_body/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
+Mobs/centipede_hel_body/Type=moveable
 
-Mobs/wasp_hel/Name=Wasp
-Mobs/wasp_hel/Description=Scourge that spawns in the other plane.
-Mobs/wasp_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/wasp_hel/Name=Ong Bắp Cày
+Mobs/wasp_hel/Description=Một tai họa xuất hiện từ cõi khác.
+Mobs/wasp_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
+Mobs/wasp_hel/Type=moveable
 
-Mobs/trader/Name=Trader
+Mobs/trader/Name=Thương Nhân
 
-Mobs/gambler/Name=Gambler
-Mobs/gambler/Description=This can happen to YOU.
-Mobs/gambler/Spawn=You hear someone whisper faintly... "just... one more game..."
+Mobs/gambler/Name=Con Bạc
+Mobs/gambler/Description=Điều này có thể xảy ra với BẠN.
+Mobs/gambler/Spawn=Một kẻ nguy hiểm xuất hiện...
 
-Mobs/oracle/Name=Oracle
+Mobs/oracle/Name=Nhà Tiên Tri
 
-Mobs/firefly_magic/Name=Firefly
-Mobs/firefly_magic/Description=There's something magical about this one.
+Mobs/firefly_magic/Name=Đom Đóm
+Mobs/firefly_magic/Description=Có điều gì đó kỳ diệu trong con này.
+Mobs/firefly_magic/Type=moveable
 
 Mobs/titan/Name=Titan
 
-Mobs/beetle_nazar/Name=Beetle
-Mobs/beetle_nazar/Description=This one has a different pattern... what does that mean?
+Mobs/beetle_nazar/Name=Bọ Cánh Cứng
+Mobs/beetle_nazar/Description=Con này có một hoa văn kì lạ... không biết có gì trong đó nhỉ?
+Mobs/beetle_nazar/Type=moveable
 
-Mobs/worm/Name=Worm
-Mobs/worm/Description=It's supposed to eat dirt but this one's eating flowers.
+Mobs/worm/Name=Giun
+Mobs/worm/Description=Được sinh ra để ăn đất, nhưng con này có vẻ thích ăn hoa hơn.
+Mobs/worm/Type=moveable
 
-Mobs/worm_guts/Name=Worm guts
-Mobs/worm_guts/Description=You're not supposed to see this text. I'm calling the police.
+Mobs/worm_guts/Name=Ruột Giun
+Mobs/worm_guts/Description=Bạn không được phép nhìn thấy văn bản này. Tôi sẽ báo chính quyền.
+Mobs/worm_guts/Type=static
 
-Mobs/mecha_flower/Name=Mecha Flower
-Mobs/mecha_flower/Description=Someone has been making these mechanical flowers... What could this mean?
+Mobs/mecha_flower/Name=Hoa Máy
+Mobs/mecha_flower/Description=Có người đã làm ra những bông hoa cơ khí này... Bạn nghĩ là ai?
+Mobs/mecha_flower/Type=plant
 
-Mobs/wasp_mecha/Name=Wasp
-Mobs/wasp_mecha/Description=They're MECHA ANGRY.
+Mobs/wasp_mecha/Name=Ong Bắp Cày
+Mobs/wasp_mecha/Description=Chúng đang TỨC GIẬN, BEEP BEEP.
+Mobs/wasp_mecha/Type=moveable
 
-Mobs/spider_mecha/Name=Spider
-Mobs/spider_mecha/Description=Mecha Spooky.
+Mobs/spider_mecha/Name=Nhện
+Mobs/spider_mecha/Description=Một con nhện máy đáng sợ.
+Mobs/spider_mecha/Type=moveable
