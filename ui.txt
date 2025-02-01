@@ -61,7 +61,7 @@ UI/Death/Title=Bạn vừa bị tiêu diệt bởi:
 UI/Death/NoSource=Một thực thể bí ẩn
 UI/Death/Continue=Tiếp tục
 UI/Death/Close=Đóng
-UI/Death/CollectedThisRun=Vật phẩm rơi trong lượt này
+UI/Death/CollectedThisRun=Vật phẩm lần này
 
 UI/AFKCheck/Title=Kiểm tra AFK
 UI/AFKCheck/Instructions=Kéo thả vòng tròn đến cuối đường
@@ -132,7 +132,7 @@ UI/Shop/MagicPetalError/Instructions=Bạn không thể mua cánh hoa ma thuật
 UI/Shop/MagicPetalError/Cancel=Hủy
 UI/Shop/Loyalty/Title=Cảm ơn!
 UI/Shop/Loyalty/Instructions=Như một lời cảm ơn vì sự ủng hộ của bạn,<n/>chúng tôi muốn tặng bạn một số ngôi sao miễn phí.<n/><n/>Đây là số tiền tương đương với số tiền bạn sẽ nhận được<n/>nếu bạn chi cùng số tiền bạn đã chi, nhưng với các gói lớn hơn.
-UI/Shop/Price/USD={0} USD
+UI/Shop/Price/USD={0}usd
 
 UI/DailyChallenge/Title=Thử thách
 UI/DailyChallenge/Button=Thử thách
