@@ -231,7 +231,7 @@ Clover_name/super=Sáu
 Clover_name/unique=Sáu
 Petals/clover/Name=Cỏ
 Petals/clover/FullName=Cỏ {#Clover_name/{0:rarity}} Lá
-Petals/clover/Description=Tăng độ may mắn của bạn.<n/>Độ may mắn được sử dụng để thay đổi chỉ số của một số cánh hoa.
+Petals/clover/Description=Tăng Vận may của bạn.<n/>Vân may được sử dụng để thay đổi chỉ số của một số cánh hoa.
 Petals/clover/Type=plant
 
 Petals/powder/Name=Bột
@@ -334,7 +334,7 @@ Petals/ankh/Type=thing1
 
 Petals/dice/Name=Xúc Xắc
 Petals/dice/FullName=Xúc Xắc
-Petals/dice/Description=Có 5% tỷ lệ để gây ra lượng sát thương thêm bằng 35x sát thương cơ bản.<n/>Tỷ lệ được tăng lên 4% cho mỗi điểm số may mắn.
+Petals/dice/Description=Có 5% tỷ lệ để gây ra lượng sát thương thêm bằng 35x sát thương cơ bản.<n/>Tỷ lệ được tăng lên 4% cho mỗi 1 điểm Vận may.
 Petals/dice/Type=thing1
 
 Petals/talisman/Name=Bùa
