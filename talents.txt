@@ -80,7 +80,7 @@ Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
 Talents/medic/Name=Bác Sĩ
-Talents/medic/Description=Tăng {0:perc}% {#Flower/Attribute/HealingNoColon} lên những cánh hoa.<n/>Ảnh hưởng đến đồng đội được hồi phục bàng cánh hoa của bạn.
+Talents/medic/Description=Tăng {0:perc}% {#Flower/Attribute/HealingNoColon} lên những cánh hoa.<n/>Ảnh hưởng đến đồng đội được hồi phục bằng cánh hoa của bạn.
 
 Talents/medic1/Name={#Talents/medic/Name}
 Talents/medic1/Description={#Talents/medic/Description}
