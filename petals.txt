@@ -220,8 +220,17 @@ Petals/stick/FullName=Gậy Huyền bí
 Petals/stick/Description=Một cây gậy bí ẩn có thể triệu hồi sức mạnh của gió.
 Petals/stick/Type=plant
 
-Petals/clover/Name=Cỏ May Mắn
-Petals/clover/FullName=Cỏ May Mắn
+Clover_name/common=Ba
+Clover_name/unusual=Ba
+Clover_name/rare=Ba
+Clover_name/epic=Ba
+Clover_name/legendary=Bốn
+Clover_name/mythic=Năm
+Clover_name/ultra=Sáu
+Clover_name/super=Sáu
+Clover_name/unique=Sáu
+Petals/clover/Name=Cỏ
+Petals/clover/FullName=Cỏ {#Clover_name/{0:rarity}} Lá
 Petals/clover/Description=Tăng độ may mắn của bạn.<n/>Độ may mắn được sử dụng để thay đổi chỉ số của một số cánh hoa.
 Petals/clover/Type=plant
 
