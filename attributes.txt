@@ -21,9 +21,9 @@ Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Độc:</c> {0:tooltip}/
 Mob/Attribute/PsyonicConnection=<c val="{#Colors/psyonic}">Kết nối Tâm linh</c>
 Mob/Attribute/PollenHealth=<c val="{#Colors/health}">Máu Phấn Hoa:</c> {0:tooltip}
 Mob/Attribute/PollenDamage=<c val="{#Colors/damage}">Sát thương Phấn Hoa:</c> {0:tooltip}
-Mob/Attribute/MissileHealth=<c val="{#Colors/health}">Máu Tên Lửa:</c> {0:tooltip}
-Mob/Attribute/MissileDamage=<c val="{#Colors/damage}">Sát thương Tên Lửa:</c> {0:tooltip}
-Mob/Attribute/MissilePoison=<c val="{#Colors/poison}">Độc Tên Lửa:</c> {0:tooltip} ({1:tooltip}/giây)
+Mob/Attribute/MissileHealth=<c val="{#Colors/health}">Máu Đạn:</c> {0:tooltip}
+Mob/Attribute/MissileDamage=<c val="{#Colors/damage}">Sát thương Đạn:</c> {0:tooltip}
+Mob/Attribute/MissilePoison=<c val="{#Colors/poison}">Độc Đạn:</c> {0:tooltip} ({1:tooltip}/giây)
 Mob/Attribute/PearlHealth=<c val="{#Colors/health}">Máu Ngọc Trai:</c> {0:tooltip}
 Mob/Attribute/PearlDamage=<c val="{#Colors/damage}">Sát Thương Ngọc Trai:</c> {0:tooltip}
 Mob/Attribute/DandelionHealth=<c val="{#Colors/health}">Máu đạn Bồ Công Anh:</c> {0:tooltip}
