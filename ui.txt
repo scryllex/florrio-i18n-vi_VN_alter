@@ -8,6 +8,12 @@ UI/Title/LoggingIn=Đang đăng nhập...
 UI/Title/Ready=Sẵn sàng
 UI/Title/GuestName=Khách
 UI/Title/GuestLimitation=Bạn có thể sử dụng nickname khi bạn đã liên kết tài khoản hoặc đạt đến cấp {0}.
+UI/Title/Name/Title=This pretty little flower is called...
+UI/Title/Name/Rules1=Tên của bạn phải là các chữ số hoặc {2}, và chứa {0}~{1} chữ cái.
+UI/Title/Name/Rules2=Phải có ít nhất {0} chữ số.
+UI/Title/Name/Rules3=Không thể chứa liên tiếp {0} chữ cái.
+UI/Title/Name/Rules4=Tên này sẽ vĩnh viễn và không thể đổi.
+UI/Title/Name/Button=OK
 UI/Title/Name/Bad=Nickname của bạn đã được cài lại, hãy chọn một cái mới.
 UI/Title/Name/AlreadyTaken=Nickname đã được sử dụng.
 UI/Title/Name/InternalError=Lỗi nội bộ, vui lòng thử lại sau.
@@ -54,6 +60,9 @@ UI/Chat/PromptClick=Nhấn vào đây để trò chuyện
 UI/Chat/PromptKeyboardOrClick=Nhấn [ENTER] hoặc vào đây để nhắn
 UI/Chat/Player/Block=Chặn
 UI/Chat/Player/ReportMessage=Báo cáo tin nhắn
+UI/Chat/Player/Whisper=Thì thầm
+UI/Chat/Player/InviteToSquad=Mời vào Đội
+UI/Chat/Player/InviteToGuild=Mời vào Hội
 
 UI/Flower/Level=Cấp {0}
 
