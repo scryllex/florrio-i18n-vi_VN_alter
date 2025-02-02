@@ -17,7 +17,7 @@ Petals/square/Name=Vuông
 Petals/square/FullName=Hình Vuông
 Petals/square/Description=Hình dạng này... nhìn quen quá...
 
-Petals/rose/Name=Hoa Hồng
+Petals/rose/Name=Hồng
 Petals/rose/FullName=Hoa Hồng
 Petals/rose/Description=Nó hồi phục rất tốt, nhưng có vẻ không nên dùng để đánh nhau.
 Petals/rose/Type=petal
@@ -39,7 +39,7 @@ Petals/wing/Type=thing1
 
 Petals/missile/Name=Tên Lửa
 Petals/missile/FullName=Tên Lửa
-Petals/missile/Description=Có thể phóng.
+Petals/missile/Description=Có thể bắn.
 Petals/missile/Type=thing1
 
 Petals/grapes/Name=Nho
@@ -49,12 +49,12 @@ Petals/grapes/Type=bunch1
 
 Petals/cactus/Name=Xương Rồng
 Petals/cactus/FullName=Xương Rồng
-Petals/cactus/Description=Không quá mạnh, nhưng bằng cách nào đó nó làm tăng giới hạn HP của hoa.
+Petals/cactus/Description=Không quá mạnh, nhưng bằng cách nào đó nó làm tăng giới hạn Máu của hoa.
 Petals/cactus/Type=plant
 
 Petals/faster/Name=Nhanh
 Petals/faster/FullName=Nhanh
-Petals/faster/Description=Nó quá nhẹ, giúp những cánh hoa khác quay nhanh hơn.
+Petals/faster/Description=Nó quá nhẹ, đến nỗi những cánh hoa khác quay nhanh hơn.
 Petals/faster/Type=petal
 
 Petals/bubble/Name=Bong Bóng
@@ -68,7 +68,7 @@ Petals/pollen/Description=Cẩn thận nếu bạn bị hen suyễn.
 
 Petals/dandelion/Name=Bồ Công Anh
 Petals/dandelion/FullName=Bồ Công Anh
-Petals/dandelion/Description=Gây ức chế lên tác dụng hồi phục của kẻ địch mà nó ảnh hưởng.<n/>Những kẻ địch bị ảnh hưởng bị giảm 20% lượng hồi phục. Có thể chồng lên nhau.
+Petals/dandelion/Description=Gây ức chế lên tác dụng hồi phục của kẻ địch mà nó ảnh hưởng.<n/>Những kẻ địch bị ảnh hưởng bị giảm 20% Trị liệu. Có thể chồng lên nhau.
 Petals/dandelion/Type=plant
 
 Petals/beetle_egg/Name=Trứng
@@ -91,7 +91,7 @@ Petals/yin_yang/FullName=Âm Dương
 Petals/yin_yang/Description=Cái cánh hoa huyền bí này gây ảnh hưởng lên xu hướng quay của các cánh hoa một cách không xác định được.
 Petals/yin_yang/Type=petal
 
-Petals/web/Name=Mạng Nhện
+Petals/web/Name=Mạng
 Petals/web/FullName=Mạng Nhện
 Petals/web/Description=Nó rất dính.
 Petals/web/Type=thing1
@@ -111,13 +111,13 @@ Petals/salt/FullName=Muối
 Petals/salt/Description=Phản sát thương lên kẻ thù đã tác động lên bạn.<n/>Độ hiếm của quái càng cao thì độ kháng phản sát thương cũng càng cao.
 Petals/salt/Type=block2
 
-Petals/rice/Name=Gạo
-Petals/rice/FullName=Gạo
+Petals/rice/Name=Cơm
+Petals/rice/FullName=Cơm
 Petals/rice/Description=Tái tạo rất nhanh, nhưng không quá mạnh.
 Petals/rice/Type=seed
 
-Petals/corn/Name=Bắp
-Petals/corn/FullName=Bắp
+Petals/corn/Name=Ngô
+Petals/corn/FullName=Bắp Ngô
 Petals/corn/Description=Tốn khá nhiều thời gian để tái tạo, nhưng rất có nhiều máu.
 Petals/corn/Type=seed
 
@@ -138,12 +138,12 @@ Petals/yucca/Type=petal
 
 Petals/magnet/Name=Nam Châm
 Petals/magnet/FullName=Nam Châm
-Petals/magnet/Description=Tăng phạm vi nhặt.
+Petals/magnet/Description=Tăng phạm vi nhặt cánh hoa.
 Petals/magnet/Type=thing1
 
 Petals/yggdrasil/Name=Yggdrasil
 Petals/yggdrasil/FullName=Yggdrasil
-Petals/yggdrasil/Description=Một chiếc lá khô từ cây Yggdrasil.<n/>Được đồn rằng có thể hồi sinh người đã khuất.
+Petals/yggdrasil/Description=Một chiếc lá khô từ cây Yggdrasil.<n/>Được đồn rằng có thể hồi sinh bông hoa đã khuất.
 Petals/yggdrasil/Type=thing1
 
 Petals/starfish/Name=Sao Biển
@@ -171,7 +171,7 @@ Petals/claw/FullName=Càng
 Petals/claw/Description=Gây một lượng sát thương thêm nếu đối tượng có HP lớn hơn 80%.<n/>-50% sát thương lên bông hoa.
 Petals/claw/Type=thing1
 
-Petals/shell/Name=Vỏ Sò
+Petals/shell/Name=Sò
 Petals/shell/FullName=Vỏ Sò
 Petals/shell/Description=Thêm một lượng khiên tạm thời cho bản thân hoặc đồng đội.
 Petals/shell/Type=thing1
@@ -191,7 +191,7 @@ Petals/uranium/FullName=Uranium
 Petals/uranium/Description=Phát ra bức xạ.<n/>-75% sát thương lên những bông hoa khác.<n/>Độ mạnh phụ thuộc vào khoảng cách từ kẻ thù đến với cánh hoa này.
 Petals/uranium/Type=block2
 
-Petals/sponge/Name=Bọt Biển
+Petals/sponge/Name=Bọt
 Petals/sponge/FullName=Bọt Biển
 Petals/sponge/Description=Lan chậm sát thương nhận vào trong chu kỳ nhất định.<n/>Nếu bị phá vỡ, lượng sát thương còn tồn đọng lại sẽ trực tiếp gây lên cơ thể cùng một lúc.<n/>Sát thương {#Attribute/PoisonNoColon} không bị ảnh hưởng.
 Petals/sponge/Type=thing1
@@ -237,7 +237,7 @@ Petals/air/Type=bunch2
 
 Petals/basil/Name=Húng
 Petals/basil/FullName=Húng Tây
-Petals/basil/Description=Tăng tất cả lượng hồi phục nhận vào.
+Petals/basil/Description=Tăng tất cả Trị liệu nhận vào.
 Petals/basil/Type=plant
 
 Petals/orange/Name=Cam
@@ -257,7 +257,7 @@ Petals/poo/Type=bunch2
 
 Petals/relic/Name=Di Vật
 Petals/relic/FullName=Di Vật Huyền bí
-Petals/relic/Description=Một di vật lạ thường. Tăng giới hạn HP của bản thân lên đáng kể.<n/>Sát thương nhận vào được chia sẻ với những bông hoa khác cũng trang bị nó.
+Petals/relic/Description=Một di vật lạ thường. Tăng giới hạn Máu của bản thân lên đáng kể.<n/>Sát thương nhận vào được chia sẻ với những bông hoa khác cũng trang bị nó.
 Petals/relic/Type=thing1
 
 Petals/lotus/Name=Sen
@@ -277,7 +277,7 @@ Petals/cotton/Type=thing1
 
 Petals/carrot/Name=Cà Rốt
 Petals/carrot/FullName=Cà Rốt
-Petals/carrot/Description=Cứng và đáng tin cậy. Có thể phóng và phản lại khi chạm tường.
+Petals/carrot/Description=Cứng và đáng tin cậy. Có thể bay và bật lại khi chạm tường.
 Petals/carrot/Type=tubber
 
 Petals/bone/Name=Xương
@@ -294,8 +294,8 @@ Petals/tomato/FullName=Cà Chua
 Petals/tomato/Description=Mạnh hơn sau một thời gian.
 Petals/tomato/Type=sphere
 
-Petals/mark/Name=Kí Hiệu
-Petals/mark/FullName=Kí Hiệu Hắc ám
+Petals/mark/Name=Dấu
+Petals/mark/FullName=Con Dấu Hắc Ám
 Petals/mark/Description=Một kí hiệu hắc ám ràng buộc chính nó lên một linh hồn sa ngã.
 
 Petals/rubber/Name=Cao Su
@@ -355,7 +355,7 @@ Petals/disc/Type=thing1
 
 Petals/shovel/Name=Xẻng
 Petals/shovel/FullName=Xẻng
-Petals/shovel/Description=Không thể bị đánh trúng, nhưng cũng không thể sử dụng cánh hoa trong thời gian ngắn.
+Petals/shovel/Description=Không thể bị đánh, nhưng cũng không thể sử dụng cánh hoa trong thời gian ngắn.
 Petals/shovel/Type=thing1
 
 Petals/coin/Name=Xu
@@ -369,7 +369,7 @@ Petals/chip/Type=thing1
 
 Petals/card/Name=Thẻ
 Petals/card/FullName=Thẻ Bài
-Petals/card/Description=Một cái thẻ bài. Có vẻ như đã bị đánh dấu.
+Petals/card/Description=Một lá thẻ bài. Có vẻ như đã bị đánh dấu.
 Petals/card/Type=flat1
 
 Petals/moon/Name=Trăng
@@ -382,7 +382,7 @@ Petals/privet/FullName=Mọng
 Petals/privet/Description=Gây lượng sát thương {#Attribute/PoisonNoColon} thêm dựa vào lượng {#Attribute/PoisonNoColon} đã có mỗi giây.
 Petals/privet/Type=sphere
 
-Petals/glass/Name=Thủy Tinh
+Petals/glass/Name=Kính
 Petals/glass/FullName=Thủy Tinh
 Petals/glass/Description=Xuyên qua kẻ địch.<n/>Không thể gây sát thương lên kẻ địch nhanh hơn một khoảng thời gian nhất định.
 Petals/glass/Type=flat2
@@ -392,9 +392,9 @@ Petals/corruption/FullName=Ô Uế
 Petals/corruption/Description=Làm ô uế linh hồn, khiến họ chống lại đồng đội của chính mình.
 Petals/corruption/Type=block2
 
-Petals/orb/Name=Cầu
-Petals/orb/FullName=Cầu Mana
-Petals/orb/Description=Tạo Mana.
+Petals/orb/Name=Mana
+Petals/orb/FullName=Hạt Ma Thuật
+Petals/orb/Description=Tạo Năng lượng.
 Petals/orb/Type=sphere
 
 Petals/blueberries/Name=Việt Quất
@@ -414,17 +414,17 @@ Petals/magic_stinger/Type=thing1
 
 Petals/magic_leaf/Name=Lá
 Petals/magic_leaf/FullName=Lá Ma Thuật
-Petals/magic_leaf/Description=Thu thập Mana từ môi trường xung quanh một cách thụ động.
+Petals/magic_leaf/Description=Thu thập Năng lượng từ môi trường xung quanh một cách thụ động.
 Petals/magic_leaf/Type=thing1
 
 Petals/magic_cactus/Name=Xương Rồng
 Petals/magic_cactus/FullName=Xương Rồng Ma Thuật
-Petals/magic_cactus/Description=Tăng sức chứa Mana.
+Petals/magic_cactus/Description=Tăng sức chứa Năng lượng.
 Petals/magic_cactus/Type=plant
 
 Petals/magic_eye/Name=Mắt
 Petals/magic_eye/FullName=Mắt Ma Thuật
-Petals/magic_eye/Description=Tiêu thụ một nửa lượng Mana hiện có và gây sát thương dựa vào phần Mana đó.
+Petals/magic_eye/Description=Tiêu thụ một nửa lượng Năng lượng hiện có và gây sát thương dựa vào phần Mana đó.
 Petals/magic_eye/Type=thing2
 
 Petals/magic_missile/Name=Tên Lửa
