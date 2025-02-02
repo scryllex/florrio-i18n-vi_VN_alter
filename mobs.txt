@@ -23,7 +23,7 @@ Mobs/ant_worker/Name=Kiến Thợ
 Mobs/ant_worker/Description=Tính tình hơi thất thường, có lẽ vì làm việc quá nhiều.
 Mobs/ant_worker/Type=moveable
 
-Mobs/ant_soldier/Name=Kiến Lính
+Mobs/ant_soldier/Name=Kiến Đực
 Mobs/ant_soldier/Description=Nó có cánh và sẵn sàng sử dụng chúng.
 Mobs/ant_soldier/Type=moveable
 
@@ -38,7 +38,7 @@ Mobs/beetle/Name=Bọ Cánh Cứng
 Mobs/beetle/Description=Nó đói và hoa là bữa ăn yêu thích của nó.
 Mobs/beetle/Type=moveable
 
-Mobs/hornet/Name=Ong Vò Vẽ
+Mobs/hornet/Name=Ong Bắp Cày
 Mobs/hornet/Description=Những con này không dễ chịu như ong nhỏ đâu.
 Mobs/hornet/Spawn=Một đốm vàng lớn xuất hiện ở đằng xa...
 Mobs/hornet/Type=moveable
@@ -86,7 +86,7 @@ Mobs/scorpion/Name=Bọ Cạp
 Mobs/scorpion/Description=CẨN THẬN BỊ CHÍCH!
 Mobs/scorpion/Type=moveable
 
-Mobs/fire_ant_soldier/Name=Kiến Lửa Lính
+Mobs/fire_ant_soldier/Name=Kiến Lửa Đực
 Mobs/fire_ant_soldier/Description=Con kiến này đang bùng cháyyyyyyyy.
 Mobs/fire_ant_soldier/Type=moveable
 
@@ -94,7 +94,7 @@ Mobs/fire_ant_burrow/Name=Tổ Kiến Lửa
 Mobs/fire_ant_burrow/Description=Có thể có gì đó ở trong đây?
 
 Mobs/sandstorm/Name=Bão Cát
-Mobs/sandstorm/Description=Darude (1999)
+Mobs/sandstorm/Description=Darude - Sandstorm (1999) (một tác phẩm âm nhạc)
 
 Mobs/bubble/Name=Bong Bóng
 Mobs/bubble/Description=Pop
@@ -208,7 +208,7 @@ Mobs/moth/Type=moveable
 
 Mobs/firefly/Name=Đom Đóm
 Mobs/firefly/Description=Ồ... phát sáng.
-Mobs/firefly/Spawn=Có một ánh sáng rực rỡ ở phía chân trời...
+Mobs/firefly/Spawn=Có tia ánh sáng rực rỡ từ phía chân trời...
 Mobs/firefly/Type=moveable
 
 Mobs/beetle_hel/Name=Bọ Cánh Cứng
@@ -216,7 +216,7 @@ Mobs/beetle_hel/Description=Một tai họa xuất hiện từ cõi khác.
 Mobs/beetle_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
 Mobs/beetle_hel/Type=moveable
 
-Mobs/wasp/Name=Ong Bắp Cày
+Mobs/wasp/Name=Tò Vò
 Mobs/wasp/Description=Chúng rất GIẬN DỮ.
 Mobs/wasp/Type=moveable
 
@@ -238,7 +238,7 @@ Mobs/centipede_hel_body/Description=Một tai họa xuất hiện từ cõi khá
 Mobs/centipede_hel_body/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
 Mobs/centipede_hel_body/Type=moveable
 
-Mobs/wasp_hel/Name=Ong Bắp Cày
+Mobs/wasp_hel/Name=Tò Vò
 Mobs/wasp_hel/Description=Một tai họa xuất hiện từ cõi khác.
 Mobs/wasp_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
 Mobs/wasp_hel/Type=moveable
@@ -247,7 +247,7 @@ Mobs/trader/Name=Thương Nhân
 
 Mobs/gambler/Name=Con Bạc
 Mobs/gambler/Description=Điều này có thể xảy ra với BẠN.
-Mobs/gambler/Spawn=Một kẻ nguy hiểm xuất hiện...
+Mobs/gambler/Spawn=Một thằng nghiện cờ bạc xuất hiện...
 
 Mobs/oracle/Name=Nhà Tiên Tri
 
