@@ -177,11 +177,11 @@ Mobs/termite_baby/Description=Yếu đuối và không có khả năng tự vệ
 Mobs/termite_baby/Type=moveable
 
 Mobs/termite_worker/Name=Mối Thợ
-Mobs/termite_worker/Description=Tính tình hơi thất thường, có lẽ vì làm việc quá nhiều.<n/Những sinh vật này dường như có mối liên kết nào đó.
+Mobs/termite_worker/Description=Tính tình hơi thất thường, có lẽ vì làm việc quá nhiều.<n/>Những sinh vật này dường như có mối liên kết nào đó.
 Mobs/termite_worker/Type=moveable
 
 Mobs/termite_soldier/Name=Mối Lính
-Mobs/termite_soldier/Description=Nó có cánh và sẵn sàng sử dụng chúng.<n/Những sinh vật này dường như có mối liên kết nào đó.
+Mobs/termite_soldier/Description=Nó có cánh và sẵn sàng sử dụng chúng.<n/>Những sinh vật này dường như có mối liên kết nào đó.
 Mobs/termite_soldier/Type=moveable
 
 Mobs/termite_overmind/Name=Chúa Tể Mối
