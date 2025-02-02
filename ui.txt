@@ -177,6 +177,7 @@ UI/Talent/Rarity={#Rarities/{1}/Name}
 UI/Talent/TP=TP
 UI/Talent/Tooltip=Bạn có thể giành được nhiều TP hơn bằng cách thăng cấp
 UI/Talent/Reset=Đặt lại
+UI/Talent/HoldToUpgrade=NHẤN GIỮ để nâng cấp
 
 UI/Craft/Title=Chế tạo
 UI/Craft/Button=Chế tạo
