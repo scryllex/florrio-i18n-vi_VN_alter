@@ -1,14 +1,20 @@
-UI/Time/Days={0} ngày
-UI/Time/Hours={0} giờ
-UI/Time/Minutes={0} phút
-UI/Time/Seconds={0} giây
-UI/Time/Now=ngay bây giờ
+UI/Time/Days={#UI/Time/Days/{1}}
+UI/Time/Hours={#UI/Time/Hours/{1}}
+UI/Time/Minutes={#UI/Time/Minutes/{1}}
+UI/Time/Seconds={#UI/Time/Seconds/{1}}
+UI/Time/Now={#UI/Time/Now/{1}}
 
-UI/TimeLeft/Days=sau {0} ngày
-UI/TimeLeft/Hours=sau {0} giờ
-UI/TimeLeft/Minutes=sau {0} phút
-UI/TimeLeft/Seconds=sau {0} giây
-UI/TimeLeft/Now=ngay bây giờ
+UI/Time/Days/={0} ngày
+UI/Time/Hours/={0} giờ
+UI/Time/Minutes/={0} phút
+UI/Time/Seconds/={0} giây
+UI/Time/Now/=ngay bây giờ
+
+UI/Time/Days/left=sau {0} ngày
+UI/Time/Hours/left=sau {0} giờ
+UI/Time/Minutes/left=sau {0} phút
+UI/Time/Seconds/left=sau {0} giây
+UI/Time/Now/left=ngay bây giờ
 
 UI/TooltipTime/Days={0:tooltip} ngày
 UI/TooltipTime/Hours={0:tooltip} giờ

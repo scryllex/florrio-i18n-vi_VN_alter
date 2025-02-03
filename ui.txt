@@ -121,7 +121,7 @@ UI/Squad/Error/Full=Đội đã đầy
 UI/Shop/Title=Cửa hàng
 UI/Shop/Button=Cửa hàng
 UI/Shop/Instructions=Gian hàng Hôm nay:
-UI/Shop/TimeLeft=Cửa hàng sẽ thay đổi {0:timeLeft}
+UI/Shop/TimeLeft=Cửa hàng sẽ thay đổi {0:time:left}
 UI/Shop/Lock=Khóa
 UI/Shop/LockedChanged=Cửa hàng sẽ đổi sau khi mở khóa.
 UI/Shop/LockedNoChange=Cửa hàng sẽ không đổi trong khi bị khóa.
@@ -146,7 +146,7 @@ UI/Shop/Price/USD={0}usd
 UI/DailyChallenge/Title=Thử thách
 UI/DailyChallenge/Button=Thử thách
 UI/DailyChallenge/Instructions=Đánh bại những con quái sau:
-UI/DailyChallenge/TimeLeft=Thử thách sẽ đổi {0:timeLeft}
+UI/DailyChallenge/TimeLeft=Thử thách sẽ đổi {0:time:left}
 UI/DailyChallenge/Claimed=Đã nhận
 UI/DailyChallenge/SupportersOnly=Thử thách chỉ dành<n/>cho người ủng hộ.
 
@@ -193,12 +193,12 @@ UI/Absorb/Instructions=Hấp thụ những cánh hoa để tăng XP<n/><c val="{
 UI/CoinCraft/Title=Trao đổi
 UI/CoinCraft/Button=Trao đổi
 UI/CoinCraft/Instructions=Bạn có thể đổi một cánh hoa cho một đồng xu cùng độ hiếm
-UI/CoinCraft/Delay=Bạn có thể đổi lại {0:timeLeft}
+UI/CoinCraft/Delay=Bạn có thể đổi lại {0:time:left}
 
 UI/OracleCraft/Title=Tiên tri
 UI/OracleCraft/Button=Chế tạo
 UI/OracleCraft/Instructions=Nhà tiên tri sẽ đảm bảo cho một lần chế tạo... với mức giá phù hợp.
-UI/OracleCraft/Delay=Bạn có thể chế tạo lần nữa trong {0:timeLeft}
+UI/OracleCraft/Delay=Bạn có thể chế tạo lần nữa trong {0:time:left}
 
 UI/Plinko/Title=Plinko
 UI/Plinko/Auto=Tự động
