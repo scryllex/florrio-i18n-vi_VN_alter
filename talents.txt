@@ -80,7 +80,7 @@ Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
 Talents/medic/Name=Cứu Thương
-Talents/medic/Description=Tăng {0:perc}% {#Flower/Attribute/HealingNoColon} lên những cánh hoa.<n/>Ảnh hưởng đến đồng đội được hồi phục bằng cánh hoa của bạn.
+Talents/medic/Description=Tăng {#Flower/Attribute/HealingNoColon} từ những cánh hoa của bạn lên {0:perc}%.<n/>Hỗ trợ cả đồng đội nhận được trị liệu từ cánh hoa của bạn.
 
 Talents/medic1/Name={#Talents/medic/Name}
 Talents/medic1/Description={#Talents/medic/Description}
