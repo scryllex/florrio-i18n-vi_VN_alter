@@ -158,7 +158,7 @@ UI/Petal/Reload1={0} giây
 UI/Petal/Reload2={0} giây + {1} giây
 
 UI/Mob/Name={#Mobs/{0:base}/Name}
-UI/Mob/SortName={#Mobs/{0:base}/Name}
+UI/Mob/SortName={#Mobs/{0:base}/SortName}
 UI/Mob/Description={#Mobs/{0:base}/Description}
 UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
 
