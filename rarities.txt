@@ -28,17 +28,17 @@ Rarities/mythic/ArticleUpper=Một
 Rarities/mythic/Article=một
 Rarities/mythic/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Name}</c>
 
-Rarities/ultra/Name=Siêu Cấp
+Rarities/ultra/Name=Thần Thoại
 Rarities/ultra/ArticleUpper=Một
 Rarities/ultra/Article=một
 Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
 
-Rarities/super/Name=Tối Thượng
+Rarities/super/Name=Siêu Đẳng
 Rarities/super/ArticleUpper=Một
 Rarities/super/Article=một
 Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
 
-Rarities/unique/Name=Độc Quyền
+Rarities/unique/Name=Độc Nhất
 Rarities/unique/ArticleUpper=Một
 Rarities/unique/Article=một
 Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>

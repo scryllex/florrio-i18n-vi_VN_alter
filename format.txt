@@ -19,6 +19,6 @@ UI/TooltipTime/Now=ngay bây giờ
 UI/Tooltip/Grouping=1000
 UI/Tooltip/Group0={0}
 UI/Tooltip/Group1={0}N
-UI/Tooltip/Group2={0}TR
+UI/Tooltip/Group2={0}Tr
 UI/Tooltip/Group3={0}T
 UI/Tooltip/Group4={0}NT

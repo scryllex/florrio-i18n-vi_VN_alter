@@ -2,9 +2,9 @@
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
 Ngày 16 tháng 1, 2025
-	- Điện thoại đã hỗ trợ Kho trang bị. Nhấn giữ nút X và bạn có thể thay đổi kho trang bị bằng cách nhấn vào dòng trang bị thứ 2. Mỗi kho trang bị hiện biểu tượng cho cánh hoa đầu trong kho trang bị.
-	- Để tải Kho trang bị trên bàn phím, nhấn giữ L+phím_số, hoặc K+phím_số cho các kho trang bị thứ 2.
-	- Đã thay đổi cách thức lưu Kho trang bị. Nếu đã bật "Tự động lưu kho trang bị", chúng sẽ tự động được lưu ngay khi thay đổi Kho trang bị. Nếu đang tắt, bạn cần phải nhấn nút O để lưu Kho trang bị hiện tại.
+	- Điện thoại đã hỗ trợ Bộ trang bị. Nhấn giữ nút X và bạn có thể thay đổi Bộ trang bị bằng cách nhấn vào dòng trang bị thứ 2. Mỗi Bộ trang bị hiện biểu tượng cho cánh hoa đầu trong Bộ trang bị.
+	- Để tải Bộ trang bị trên bàn phím, nhấn giữ L+phím_số, hoặc K+phím_số cho các Bộ trang bị thứ 2.
+	- Đã thay đổi cách thức lưu Bộ trang bị. Nếu đã bật "Tự động lưu Bộ trang bị", chúng sẽ tự động được lưu ngay khi thay đổi Bộ trang bị. Nếu đang tắt, bạn cần phải nhấn nút O để lưu Bộ trang bị hiện tại.
 
 Ngày 9 Tháng 1, 2025
 	- Hiệu ứng làm chậm đã được thay đổi. Chúng sẽ dựa trên thể loại quái và độ hiếm của cánh hoa.
@@ -64,7 +64,7 @@ Ngày 17 Thành 1, 2024
 	- Thời gian khôi phục lại Thiên Phú của mọi người đã được khôi phục.
 
 Ngày 14 Tháng 1, 2024
-	- Đã thay đổi các phím để lưu/lưu lại các kho trang bị. L+phím_số để tải một kho trang bị cụ thể và L+Shift+phím_số để lưu kho trang bị hiện tại.
+	- Đã thay đổi các phím để lưu/lưu lại các Bộ trang bị. L+phím_số để tải một Bộ trang bị cụ thể và L+Shift+phím_số để lưu Bộ trang bị hiện tại.
 
 Ngày 11 Tháng 1, 2024
 	- Hầu hết trong mọi trường hợp, giữa những người chơi sẽ có sự va chạm.
@@ -129,7 +129,7 @@ Ngày 13 Tháng 3, 2023
 	- PvP đã trở lại!
 	- Cổng vào được đặt ở bên phải Centralia.
 	- Đấu trường được chia thành 3 độ khó khác nhau: Thường Gặp-Sử Thi, Truyền Thuyết-Huyền Thoại, Siêu Cấp-Tối Thượng. Bạn sẽ vào khu vực phù hợp dựa trên độ hiếm của cánh hoa cao nhất mà bạn trang bị.
-	- Bạn không thể thay đổi kho trang bị khi đang trong đấu trường.
+	- Bạn không thể thay đổi Bộ trang bị khi đang trong đấu trường.
 
 Ngày 3 Tháng 3, 2023
 	- Mỗi khi quái Tối Thượng được sinh ra, sẽ có thông báo đến tất cả người chơi ở cùng một vùng.
@@ -404,7 +404,7 @@ Ngày 15 Tháng 7, 2022
 	- Đã phát hành bản đồ Sa mạc.
 
 Ngày 14 Tháng 7, 2022
-	- Quản lý Túi đồ trong trò chơi đã được đơn giản hoá, bây giờ chỉ có thể đổi các cánh hoa trong mỗi ô của Kho trang bị chính và phụ.
+	- Quản lý Túi đồ trong trò chơi đã được đơn giản hoá, bây giờ chỉ có thể đổi các cánh hoa trong mỗi ô của Bộ trang bị chính và phụ.
 
 Ngày 13 Tháng 7, 2022
 	- Tổ kiến bây giờ có thể có độ hiếm cao hơn Hiếm Gặp, nhưng kiến chúa sẽ cao hơn Hiếm Gặp.

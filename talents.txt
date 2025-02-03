@@ -22,22 +22,22 @@ Talents/crafting_ultra/Description={#Talents/crafting/Description}
 Talents/crafting_super/Name={#Talents/crafting/Name}
 Talents/crafting_super/Description={#Talents/crafting/Description}
 
-Talents/inventory6/Name=Kho Trang Bị
-Talents/inventory6/Description=Mở khóa ô thứ 6 trong kho trang bị.
+Talents/inventory6/Name=Bộ Trang Bị
+Talents/inventory6/Description=Mở khóa ô thứ 6 trong Bộ trang bị.
 
-Talents/inventory7/Name=Kho Trang Bị
-Talents/inventory7/Description=Mở khóa ô thứ 7 trong kho trang bị.
+Talents/inventory7/Name=Bộ Trang Bị
+Talents/inventory7/Description=Mở khóa ô thứ 7 trong Bộ trang bị.
 
-Talents/inventory8/Name=Kho Trang Bị
-Talents/inventory8/Description=Mở khóa ô thứ 8 trong kho trang bị.
+Talents/inventory8/Name=Bộ Trang Bị
+Talents/inventory8/Description=Mở khóa ô thứ 8 trong Bộ trang bị.
 
-Talents/inventory9/Name=Kho Trang Bị
-Talents/inventory9/Description=Mở khóa ô thứ 9 trong kho trang bị.
+Talents/inventory9/Name=Bộ Trang Bị
+Talents/inventory9/Description=Mở khóa ô thứ 9 trong Bộ trang bị.
 
-Talents/inventory10/Name=Kho Trang Bị
-Talents/inventory10/Description=Mở khóa ô thứ 10 trong kho trang bị.
+Talents/inventory10/Name=Bộ Trang Bị
+Talents/inventory10/Description=Mở khóa ô thứ 10 trong Bộ trang bị.
 
-Talents/health/Name=HP
+Talents/health/Name=Sinh tồn
 Talents/health/Description=Tăng {0:perc}% chỉ số {#Flower/Attribute/HealthNoColon} cơ bản.
 
 Talents/health1/Name={#Talents/health/Name}
@@ -64,8 +64,8 @@ Talents/health7/Description={#Talents/health/Description}
 Talents/health8/Name={#Talents/health/Name}
 Talents/health8/Description={#Talents/health/Description}
 
-Talents/luck/Name=May Mắn
-Talents/luck/Description=Tăng {0:tooltip} {#Flower/Attribute/LuckNoColon}.<n/>Độ may mắn được sử dụng để thay đổi chỉ số của một số cánh hoa.
+Talents/luck/Name=Vận May
+Talents/luck/Description=Tăng {0:tooltip} {#Flower/Attribute/LuckNoColon}.<n/>Vận may được sử dụng để thay đổi chỉ số của một số cánh hoa.
 
 Talents/luck1/Name={#Talents/luck/Name}
 Talents/luck1/Description={#Talents/luck/Description}
@@ -79,7 +79,7 @@ Talents/luck3/Description={#Talents/luck/Description}
 Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
-Talents/medic/Name=Bác Sĩ
+Talents/medic/Name=Cứu Thương
 Talents/medic/Description=Tăng {0:perc}% {#Flower/Attribute/HealingNoColon} lên những cánh hoa.<n/>Ảnh hưởng đến đồng đội được hồi phục bằng cánh hoa của bạn.
 
 Talents/medic1/Name={#Talents/medic/Name}
@@ -221,7 +221,7 @@ Talents/second_chance2/Name=Cơ Hội Thứ Hai
 Talents/second_chance2/Description=Tăng thời lượng lên {0:tooltip} giây, giảm thời gian hồi chiêu xuống còn {1:tooltip} giây.
 
 Talents/magnetism/Name=Người Có Sức Hút
-Talents/magnetism/Description=Tăng phạm vi nhặt lên {0} cánh hoa khi còn sống.
+Talents/magnetism/Description=Tăng phạm vi nhặt cánh hoa lên {0} khi còn sống.
 
 Talents/body_toxicity/Name=Độc Tính
 Talents/body_toxicity/Description=Khi va chạm kẻ địch, gây sát thương thêm bằng với {0:tooltip}x {#Flower/Attribute/BodyDamageNoColon}<n/>và được xem như là {#Attribute/PoisonNoColon} trong vòng {1:tooltip} giây.
