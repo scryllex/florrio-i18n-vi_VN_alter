@@ -560,19 +560,25 @@ Petals/mimic/Description=Sao chép cánh hoa ở bên trái nó với độ hi�
 Petals/mimic/Type=thing2
 
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
+Petals/mjolnir/SortName={#Petals/mjolnir/{0:rarity:is-unique}/SortName}
 Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
 Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
+Petals/mjolnir/Type={#Petals/mjolnir/{0:rarity:is-unique}/Type}
 
 Petals/mjolnir/not-unique/Name=Mảnh Vỡ
+Petals/mjolnir/not-unique/SortName=m*0a*3n*0h*0 v*0o-4
 Petals/mjolnir/not-unique/FullName=Mảnh Vỡ
 Petals/mjolnir/not-unique/Description=Có lẽ cái này dùng để rèn thứ gì đó tuyệt vời?
+Petals/mjolnir/not-unique/Type=bunch2
 
-Petals/mjolnir/unique/Name=Mjölnir
+Petals/mjolnir/unique/Name=Mjolnir
+Petals/mjolnir/unique/SortName=m*0a*3n*0h*0 v*0o-4
 Petals/mjolnir/unique/FullName=Mjölnir
 Petals/mjolnir/unique/Description=Cây búa mạnh nhất vũ trụ.
 Petals/mjolnir/unique/Type=thing1
 	
 Petals/mecha_missile/Name=Tên Lửa
+Petals/mecha_missile/SortName=t*0e+0n*0 l*0u+3a*0 m*0a*1y*0
 Petals/mecha_missile/FullName=Tên Lửa Máy
 Petals/mecha_missile/Description=Khóa mục tiêu.
 Petals/mecha_missile/Type=thing1
