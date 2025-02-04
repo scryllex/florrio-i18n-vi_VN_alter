@@ -573,6 +573,6 @@ Petals/mjolnir/unique/Description=Cây búa mạnh nhất vũ trụ.
 Petals/mjolnir/unique/Type=thing1
 	
 Petals/mecha_missile/Name=Tên Lửa
-Petals/mecha_missile/FullName=Tên Lửa Mecha
+Petals/mecha_missile/FullName=Tên Lửa Máy
 Petals/mecha_missile/Description=Khóa mục tiêu.
 Petals/mecha_missile/Type=thing1
