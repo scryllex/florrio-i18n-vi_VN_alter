@@ -343,7 +343,7 @@ Mobs/mecha_flower/SortName=h*0o*0a*0 m*0a*1y*0
 Mobs/mecha_flower/Description=Có người đã làm ra những bông hoa cơ khí này... Bạn nghĩ là ai?
 Mobs/mecha_flower/Type=plant
 
-Mobs/wasp_mecha/Name=Ong Bắp Cày
+Mobs/wasp_mecha/Name=Tò Vò Máy
 Mobs/wasp_mecha/SortName=o*0n*0g*0 b*0a+1p*0 c*0a*2y*0
 Mobs/wasp_mecha/Description=Chúng đang TỨC GIẬN, BEEP BEEP.
 Mobs/wasp_mecha/Type=moveable
