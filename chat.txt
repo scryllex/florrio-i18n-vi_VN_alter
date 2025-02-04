@@ -3,10 +3,10 @@ Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper}{#Chat/PetalCraftTy
 
 Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
 Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
-Chat/PetalCraftedUnnamed/unique={#Petals/AnnouncementPrefix:0} vừa được rèn!
-Chat/PetalCraftedNamed/unique={#Petals/AnnouncementPrefix:0} vừa được rèn bởi {1}!
-Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0} vừa được chế tạo!
-Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} vừa được chế tạo bởi {1}!
+Chat/PetalCraftedUnnamed/unique={#Petals/AnnouncementPrefix:0} đã được rèn!
+Chat/PetalCraftedNamed/unique={#Petals/AnnouncementPrefix:0} đã được rèn bởi {1}!
+Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0} đã được chế tạo!
+Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} đã được chế tạo bởi {1}!
 
 Chat/MobSpawnType={#Classify/Mob/{#Mobs/{0:base}/Type}}
 Chat/PetalCraftType={#Classify/Petal/{#Petals/{0:base}/Type}}
@@ -38,13 +38,13 @@ Chat/MobSpawnedHere/Text={#Mobs/AnnouncementPrefix:0} vừa xuất hiện!
 Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0} vừa xuất hiện ở đâu đó!
 
 Chat/MobDefeated={#Chat/MobDefeated/{1}}
-Chat/MobDefeated/0={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại!
-Chat/MobDefeated/1={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại bởi {2}!
-Chat/MobDefeated/2={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại bởi {2} và {3}!
-Chat/MobDefeated/3={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại bởi {2}, {3} và {4}!
-Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại bởi {2}, {3}, {4} và {5}!
+Chat/MobDefeated/0={#Mobs/AnnouncementPrefix:0} đã bị đánh bại!
+Chat/MobDefeated/1={#Mobs/AnnouncementPrefix:0} đã bị đánh bại bởi {2}!
+Chat/MobDefeated/2={#Mobs/AnnouncementPrefix:0} đã bị đánh bại bởi {2} và {3}!
+Chat/MobDefeated/3={#Mobs/AnnouncementPrefix:0} đã bị đánh bại bởi {2}, {3} và {4}!
+Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} đã bị đánh bại bởi {2}, {3}, {4} và {5}!
 
-Chat/Revived=Bạn đã được cứu bởi {0}.
+Chat/Revived=Bạn vừa được cứu bởi {0}.
 Chat/Marked=Bạn đã bị đánh dấu bởi {0}.
 
 Chat/Muted=Bạn không được phép trò chuyện ngay bây giờ vì những tin nhắn không phù hợp trước đó.<n/>Bạn sẽ có thể trò chuyện lại sau {0:time}.
@@ -56,7 +56,7 @@ Chat/BadChannel=Bạn không được làm điều đó.
 Chat/SquadChannelNotInSquad=Không ở trong đội.
 Chat/GuildChannelNotInGuild=Không ở trong hội.
 Chat/GuildChannelDisabled=Bạn đã tắt tin nhắn hội.
-Chat/GuestTooChatty=Xin lỗi, tài khoản khách có quyền trò chuyện hạn chế cho đến khi họ đạt cấp {0}.
+Chat/GuestTooChatty=Xin lỗi, tài khoản khách có quyền trò chuyện bị hạn chế cho đến khi họ đạt cấp {0}.
 Chat/PlayerReported=Đã báo cáo người chơi.
 Chat/PlayerBlocked={0} vừa bị chặn.
 Chat/ServerClosing=Máy chủ sẽ đóng sau {0:time}.
@@ -79,10 +79,7 @@ Chat/Channel/Global=Toàn cầu
 
 Chat/Guild/PlayerJoined={0} vừa tham gia hội.
 Chat/Guild/PlayerLeft={0} vừa rời hội.
-Chat/Guild/NewLeader={0} là thủ lĩnh mới của hội!
-Chat/Guild/PlayerJoined={0} vừa tham gia hội.
-Chat/Guild/PlayerLeft={0} vừa rời hội.
-Chat/Guild/NewLeader={0} là thủ lĩnh mới của hội!
+Chat/Guild/NewLeader={0} là Thủ lĩnh mới của hội!
 Chat/Guild/Invited=Bạn vừa được mời vào hội "{0}". Mở menu hội để chấp nhận lời mời.
 Chat/Guild/Created=Đã tạo hội.
 Chat/Guild/Left=Bạn vừa rời hội.
@@ -115,7 +112,7 @@ Chat/CommandError/TargetDisconnected=Mục tiêu đã bị ngắt kết nối.
 Chat/CommandError/TargetNotFound=Không tìm thấy mục tiêu.
 Chat/CommandError/TargetMustHaveFlower=Mục tiêu không có bông hoa.
 Chat/CommandError/InternalError=Lỗi nội bộ.
-Chat/CommandError/InvalidPetalArgument=ID cánh hoa không hợp lệ.
+Chat/CommandError/InvalidPetalArgument=Mã số cánh hoa không hợp lệ.
 Chat/CommandError/InvalidWhisperTarget=Mục tiêu không hợp lệ.
 Chat/CommandError/WhisperTargetNotFound=Không tìm thấy mục tiêu.
 Chat/CommandError/WhisperTargetNotConnected=Mục tiêu không được kết nối hoặc đã tắt tin nhắn thì thầm.

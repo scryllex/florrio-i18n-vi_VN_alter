@@ -30,7 +30,7 @@ UI/Login/PlayAsGuest=Chơi với tư cách là khách
 UI/Login/SignInApple=Đăng nhập bằng Apple
 UI/Login/SignInDiscord=Đăng nhập bằng Discord
 UI/Login/Logout=Đăng xuất
-UI/Login/AccountID=ID Tài khoản:
+UI/Login/AccountID=Số mã Tài khoản:
 UI/Login/Connecting=(đang tải)
 UI/Login/GuestName=Khách
 UI/Login/GuestInfo=Nếu bạn đã có tài khoản khách trên thiết bị này,<n/>đăng nhập tài khoản sẽ liên kết với tài khoản đó và lưu tiến trình của bạn.
@@ -49,7 +49,7 @@ UI/AbandonGame=Thoát game
 UI/Reconnecting=Mất kết nối, đang kết nối lại...
 
 UI/LevelBar/Level=Cấp {0}
-UI/LevelBar/LevelLong=Hoa Cấp {0}
+UI/LevelBar/LevelLong=Bông hoa Cấp {0}
 UI/LevelBar/XP={0}/{1} XP
 
 UI/Scoreboard/Title={0} Bông Hoa
@@ -70,7 +70,7 @@ UI/Death/Title=Bạn vừa bị tiêu diệt bởi:
 UI/Death/NoSource=Một thực thể bí ẩn
 UI/Death/Continue=Tiếp tục
 UI/Death/Close=Đóng
-UI/Death/CollectedThisRun=Vật phẩm lần này
+UI/Death/CollectedThisRun=Vật phẩm lượt chơi này
 
 UI/AFKCheck/Title=Kiểm tra Treo máy
 UI/AFKCheck/Instructions=Kéo vòng tròn đến cuối đường
@@ -84,15 +84,13 @@ UI/Achievements/TrackAutomatically=Tự động theo dõi
 UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress=Đã hoàn thành {0}/{1}
 
-UI/MobGallery/Title=Phòng trưng bày
-
+UI/MobGallery/Title=Trưng bày
 UI/Changelog/Title=Lịch sử Cập nhật
 UI/Changelog/Bottom=Không có lịch sử cũ hơn
-
-UI/Inventory/Title=Túi đồ
+UI/Inventory/Title=Kho tàng
 UI/Inventory/Stack=Xếp chồng
-UI/Inventory/Instructions=Kéo thả một cánh hoa để trang bị nó
-UI/Inventory/Speed=T.Quay
+UI/Inventory/Instructions=Kéo thả cánh hoa để trang bị
+UI/Inventory/Speed=Quay
 
 UI/Guild/Title=Hội
 UI/Guild/NoGuild=Bạn chưa có hội
@@ -123,9 +121,9 @@ UI/Shop/Button=Cửa hàng
 UI/Shop/Instructions=Gian hàng Hôm nay:
 UI/Shop/TimeLeft=Cửa hàng sẽ thay đổi sau {0:time}
 UI/Shop/Lock=Khóa
-UI/Shop/LockedChanged=Cửa hàng sẽ đổi sau khi mở khóa.
+UI/Shop/LockedChanged=Cửa hàng sẽ thay đổi sau khi mở khóa.
 UI/Shop/LockedNoChange=Cửa hàng sẽ không đổi trong khi bị khóa.
-UI/Shop/StarsHelp1=Bạn có thể thu thập các ngôi sao bằng cách hoàn thành thử thách,
+UI/Shop/StarsHelp1=Bạn có thể thu thập ngôi sao bằng cách hoàn thành thử thách,
 UI/Shop/StarsHelp2=hoặc mua thêm bằng cách nhấn vào số ở phía bên phải.
 UI/Shop/MustLink1=Để thực hiện dịch vụ mua hàng, trước tiên bạn cần
 UI/Shop/MustLink2=liên kết tài khoản với Discord hoặc Apple.
@@ -134,7 +132,7 @@ UI/Shop/BuyStars/Instructions=Trong trường hộp có vấn đề với khoả
 UI/Shop/BuyStars/Extra=Tôi muốn ăn tiêu dư dả
 UI/Shop/BuyStars/Cancel=Hủy
 UI/Shop/BuyPetal/Title=Xác nhận
-UI/Shop/BuyPetal/Instructions=Bạn chắc rằng là bạn muốn mua món này?<n/><c val="{#Colors/danger}">Không thể hoàn trả sau khi đã mua</c>
+UI/Shop/BuyPetal/Instructions=Bạn chắc rằng là bạn muốn mua món này?<n/><c val="{#Colors/danger}">Bạn sẽ không thể hoàn trả sau khi đã mua</c>
 UI/Shop/BuyPetal/Cancel=Hủy
 UI/Shop/MagicPetalError/Title=Lỗi
 UI/Shop/MagicPetalError/Instructions=Bạn không thể mua cánh hoa ma thuật<n/>cho đến khi bạn có {#Petals/{0}/FullName}.
@@ -152,7 +150,7 @@ UI/Banned/Account=Tài khoản: {0}
 UI/DailyChallenge/Title=Thử thách
 UI/DailyChallenge/Button=Thử thách
 UI/DailyChallenge/Instructions=Đánh bại những con quái sau:
-UI/DailyChallenge/TimeLeft=Thử thách sẽ đổi sau {0:time}
+UI/DailyChallenge/TimeLeft=Thử thách sẽ thay đổi sau {0:time}
 UI/DailyChallenge/Claimed=Đã nhận
 UI/DailyChallenge/SupportersOnly=Thử thách chỉ dành<n/>cho người ủng hộ.
 
@@ -220,13 +218,13 @@ UI/Settings/Title=Cài đặt
 UI/Settings/Game=Trò chơi
 UI/Settings/Graphics=Đồ họa
 UI/Settings/Controls=Điều khiển
-UI/Settings/Credits=Credits
+UI/Settings/Credits=Danh đề
 
 UI/Settings/Language=Ngôn ngữ
 UI/Settings/Language/Warning=LƯU Ý: chỉ có tác dụng sau khi khởi động lại game
 UI/Settings/Language/Automatic=Tự động
 
-UI/Settings/Realm=Vùng
+UI/Settings/Realm=Vùng miền
 UI/Settings/Realms={#UI/Settings/Realms/{0}}
 UI/Settings/Realms/0=Tự động
 UI/Settings/Realms/1=Juliett (BẮC MỸ)
@@ -238,7 +236,7 @@ UI/Settings/ChatWhispers=Trò chuyện thì thầm
 
 UI/Settings/AutoJoinSquads=Tự động tham gia đội
 
-UI/Settings/HideOtherPetals=Ẩn cánh hoa của người khác
+UI/Settings/HideOtherPetals=Ẩn cánh hoa bên ngoài
 
 UI/Settings/EquipDrops=Tự động trang bị
 

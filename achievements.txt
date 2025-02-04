@@ -24,8 +24,8 @@ Achievements/5/Description=Đạt cấp {0}.
 Achievements/5/ExtraDescription=Để lên cấp, bạn cần tiếp tục tiêu diệt các con côn trùng.
 
 Achievements/6/Name=Hướng dẫn
-Achievements/6/Description=Sử dụng điểm thiên phú của bạn.
-Achievements/6/ExtraDescription=Sử dụng điểm thiên phú mới bạn vừa có để mở khóa bất kỳ thiên phú nào.<n/><n/>Nhớ rằng bạn cần nhấn và giữ để nâng cấp thiên phú.
+Achievements/6/Description=Sử dụng điểm Thiên phú của bạn.
+Achievements/6/ExtraDescription=Sử dụng điểm Thiên phú mới bạn vừa có để mở khóa bất kỳ Thiên phú nào.<n/><n/>Nhớ rằng bạn cần nhấn giữ để nâng cấp thiên phú.
 
 Achievements/7/Name=Hướng dẫn
 Achievements/7/Description=Thu thập thêm cánh hoa.
@@ -99,13 +99,13 @@ Achievements/29/Name=Thợ chế tạo số lượng lớn
 Achievements/29/Description=Chế tạo {0:tooltip} cánh hoa.
 
 Achievements/30/Name=Sa mạc
-Achievements/30/Description=Đến Sa Mạc.
+Achievements/30/Description=Chạm đất Sa Mạc.
 
 Achievements/31/Name=Đại Dương
-Achievements/31/Description=Đến Đại Dương.
+Achievements/31/Description=Chạm đất Đại Dương.
 
-Achievements/32/Name=Chào mừng đến với Rừng Rậm
-Achievements/32/Description=Đến Rừng nhiệt đới.
+Achievements/32/Name=Chào mừng đến với Rừng nhiệt đới
+Achievements/32/Description=Chạm đất Rừng Rậm.
 
 Achievements/33/Name=Địa ngục Kiến
 Achievements/33/Description=Tìm ra nơi những con kiến phiền phức này đến từ đâu.
@@ -114,28 +114,28 @@ Achievements/34/Name=Cống rãnh
 Achievements/34/Description=Tìm ra nơi cái ống này dẫn đến.
 
 Achievements/35/Name=Chinh phục
-Achievements/35/Description=Đánh bại con quái vật {#Rarities/{0}/Name} đầu tiên của bạn.
+Achievements/35/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
 
 Achievements/36/Name=Chinh phục
-Achievements/36/Description=Đánh bại con quái vật {#Rarities/{0}/Name} đầu tiên của bạn.
+Achievements/36/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
 
 Achievements/37/Name=Chinh phục
-Achievements/37/Description=Đánh bại con quái vật {#Rarities/{0}/Name} đầu tiên của bạn.
+Achievements/37/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
 
 Achievements/38/Name=Chinh phục
-Achievements/38/Description=Đánh bại con quái vật {#Rarities/{0}/Name} đầu tiên của bạn.
+Achievements/38/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
 
 Achievements/39/Name=Chinh phục
-Achievements/39/Description=Đánh bại con quái vật {#Rarities/{0}/Name} đầu tiên của bạn.
+Achievements/39/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
 
 Achievements/40/Name=Chinh phục
-Achievements/40/Description=Đánh bại con quái vật {#Rarities/{0}/Name} đầu tiên của bạn.
+Achievements/40/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
 
 Achievements/41/Name=Chinh phục
-Achievements/41/Description=Đánh bại con quái vật {#Rarities/{0}/Name} đầu tiên của bạn.
+Achievements/41/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
 
 Achievements/42/Name=Đây là đâu?!
-Achievements/42/Description=Đến cõi khác.
+Achievements/42/Description=Đến cõi bên kia.
 
 Achievements/43/Name=Nhà chinh phục
 Achievements/43/Description=Hoàn thành một thử thách.
@@ -215,7 +215,7 @@ Achievements/67/Description=Tiêu diệt {#Rarities/{0}/Article} con quái {#Rar
 Achievements/68/Name=Cháy trong địa ngục
 Achievements/68/Description=Sinh tồn được {0:time} trong Địa ngục.
 
-Achievements/69/Name=Vấn đề kỹ năng
+Achievements/69/Name=Vấn đề kĩ năng
 Achievements/69/Description=Tìm thấy hoa của Nhà phát triển đã chết.
 
 Achievements/70/Name=Mối...!?
@@ -324,7 +324,7 @@ Achievements/104/Name=Tượng
 Achievements/104/Description=Tiêu diệt {#Rarities/{0}/Article} con quái {#Rarities/{0}/Name} mà không di chuyển.
 
 Achievements/105/Name=Hít vào, thở ra
-Achievements/105/Description=Trang bị và tháo {#Petals/{0}/Name} nhiều lần.
+Achievements/105/Description=Trang bị và tháo bỏ {#Petals/{0}/Name} nhiều lần.
 
 Achievements/106/Name=Rào cản âm thanh
 Achievements/106/Description=Di chuyển thật nhanh.
