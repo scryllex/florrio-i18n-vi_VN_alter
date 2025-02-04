@@ -2,7 +2,7 @@
 
 `{0}` will get replaced by whatever argument number that is. Some (like mob types, petal types) accept a separate argument to know what to fetch in that argument, or how to format it. For example, a petal argument 0 can print its rarity (common/unusual/etc) using `{0:rarity}`, or its internal name with `{0:base}` (cactus, rose, magic_stinger etc.)
 
-`{#key}` will fetch another key in the translation files of the same language. It can be nested to accomplish more complex substitutions. You can to forward the arguments you want to that new key, for example: `{#key:0:2}`. will forward the 0th and 2nd arguments in that order (so 0th and 1st when processing that key). If you don't specify which arguments to forward, it'll forward all of them in order. You can also specify multiply keys. For example, in `{#key1#key2}` it'll first look for `key1`, and if it can't be found, it'll fetch `key2` instead. If no keys can be found, it'll be replaced by an empty string (it's not an error by itself).
+`{#key}` will fetch another key in the translation files of the same language. It can be nested to accomplish more complex substitutions. You can to forward the arguments you want to that new key, for example: `{#key:0:2}`. will forward the 0th and 2nd arguments in that order (so 0th and 1st when processing that key). If you don't specify which arguments to forward, it'll forward all of them in order. You can also specify multiply keys. For example, in `{#key1#key2}` it'll first look for `key1`, and if it can't be found, it'll fetch `key2` instead. If no keys can be found, it'll be replaced by an empty string (it's not an error by itself). Using `@` will use English as the key lookup language. For example: `{#key@key}` will first lookup `key` in the current language, then in the English translation.
 
 `{!func:arg0:arg1:...}` will call specific built in functions. See below.
 
@@ -37,7 +37,7 @@ Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you 
 - `{0}` Will print raw
 - `{0:tooltip}` Will be print in tooltip form (like 2.2k)
 - `{0:time}` Will be print as a time. Assumes number is in seconds. It'll transform into something like `X seconds` or `3 hours` for larger numbers.
-- `{0:timeLeft}` Will be print as a "time left" timestamp. Assumes number is in seconds. It'll transform into something like `in X seconds` or `in 3 hours` for larger numbers.
+- `{0:time:type}` Will send `type` as a string in `{1}` for the time formatting keys.
 - `{0:tooltipTime}` Will be print as a time. Assumes number is in seconds. It'll transform into something like `X seconds` or `3 hours` for larger numbers. It will also display decimals, such as 0.7 seconds, 5.4 seconds, etc.
 - `{0:1orN}` Will print either 1 or N, depending on the value of the number.
 - `{0:lastDigit}` Will print the last digit (0-9). If the number is a float, it is first cast to integer.

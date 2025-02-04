@@ -2,9 +2,9 @@
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
 Ngày 16 tháng 1, 2025
-	- Điện thoại đã hỗ trợ Kho trang bị. Nhấn giữ nút X và bạn có thể thay đổi kho trang bị bằng cách nhấn vào dòng trang bị thứ 2. Mỗi kho trang bị hiện biểu tượng cho cánh hoa đầu trong kho trang bị.
-	- Để tải Kho trang bị trên bàn phím, nhấn giữ L+phím_số, hoặc K+phím_số cho các kho trang bị thứ 2.
-	- Đã thay đổi cách thức lưu Kho trang bị. Nếu đã bật "Tự động lưu kho trang bị", chúng sẽ tự động được lưu ngay khi thay đổi Kho trang bị. Nếu đang tắt, bạn cần phải nhấn nút O để lưu Kho trang bị hiện tại.
+	- Điện thoại đã hỗ trợ Bộ trang bị. Nhấn giữ nút X và bạn có thể thay đổi Bộ trang bị bằng cách nhấn vào dòng trang bị thứ 2. Mỗi Bộ trang bị hiện biểu tượng cho cánh hoa đầu trong Bộ trang bị.
+	- Để tải Bộ trang bị trên bàn phím, nhấn giữ L+phím_số, hoặc K+phím_số cho các Bộ trang bị thứ 2.
+	- Đã thay đổi cách thức lưu Bộ trang bị. Nếu đã bật "Tự động lưu Bộ trang bị", chúng sẽ tự động được lưu ngay khi thay đổi Bộ trang bị. Nếu đang tắt, bạn cần phải nhấn nút O để lưu Bộ trang bị hiện tại.
 
 Ngày 9 Tháng 1, 2025
 	- Hiệu ứng làm chậm đã được thay đổi. Chúng sẽ dựa trên thể loại quái và độ hiếm của cánh hoa.
@@ -48,7 +48,7 @@ Ngày 20 Tháng 4, 2024
 	- Việc hấp thụ cánh hoa sẽ bị loại bỏ trong một bản cập nhật ở tương lai.
 
 Ngày 12 Tháng 4, 2024
-	- Đã điều chỉnh tỉ lệ cho các quái Siêu Cấp+.
+	- Đã điều chỉnh tỉ lệ cho các quái {#Rarities/ultra/Name}+.
 	- Một vài thay đổi nhỏ trên bản đồ.
 
 Ngày 3 Tháng 4, 2024
@@ -64,14 +64,14 @@ Ngày 17 Thành 1, 2024
 	- Thời gian khôi phục lại Thiên Phú của mọi người đã được khôi phục.
 
 Ngày 14 Tháng 1, 2024
-	- Đã thay đổi các phím để lưu/lưu lại các kho trang bị. L+phím_số để tải một kho trang bị cụ thể và L+Shift+phím_số để lưu kho trang bị hiện tại.
+	- Đã thay đổi các phím để lưu/lưu lại các Bộ trang bị. L+phím_số để tải một Bộ trang bị cụ thể và L+Shift+phím_số để lưu Bộ trang bị hiện tại.
 
 Ngày 11 Tháng 1, 2024
 	- Hầu hết trong mọi trường hợp, giữa những người chơi sẽ có sự va chạm.
 
 Ngày 5 Tháng 1, 2024
-	- Quái Siêu Cấp có thể sản sinh ở những nơi mà các quái khác có thể (khả năng cao ở những vùng có độ hiếm cao) nhưng vẫn chỉ có một con quái Siêu Cấp tại một thời điểm và bộ đếm thời gian cục bộ cho mỗi vùng để ngăn chúng sinh ra quá nhanh.
-	- Các quái Tối Thượng không còn có khả năng cao để sinh ra nếu một con quái Siêu Cấp tồn tại đủ lâu.
+	- Quái {#Rarities/ultra/Name} có thể sản sinh ở những nơi mà các quái khác có thể (khả năng cao ở những vùng có độ hiếm cao) nhưng vẫn chỉ có một con quái {#Rarities/ultra/Name} tại một thời điểm và bộ đếm thời gian cục bộ cho mỗi vùng để ngăn chúng sinh ra quá nhanh.
+	- Các quái {#Rarities/super/Name} không còn có khả năng cao để sinh ra nếu một con quái {#Rarities/ultra/Name} tồn tại đủ lâu.
 	- Độc tố từ những người chơi khác nhau lên cùng một quái sẽ được cộng dồn.
 
 Ngày 4 Tháng 1, 2024
@@ -80,17 +80,17 @@ Ngày 4 Tháng 1, 2024
 	- Máu của đạn từ quái bây giờ tăng theo máu cánh hoa thay vì theo máu quái.
 
 Ngày 1 Tháng 1, 2024
-	- Tăng gần gấp đôi đồ rơi ra từ quái Siêu Cấp (không phải Tối Thượng).
-	- Tần xuất sinh ra các quái trên Siêu Cấp trở lại trước bản cập nhật 25 Tháng 12.
+	- Tăng gần gấp đôi đồ rơi ra từ quái {#Rarities/ultra/Name} (không phải {#Rarities/super/Name}).
+	- Tần xuất sinh ra các quái trên {#Rarities/ultra/Name} trở lại trước bản cập nhật 25 Tháng 12.
 
 Ngày 30 Tháng 12, 2023
-	- Tăng gấp đôi hầu hết máu của các quái trên Siêu Cấp.
+	- Tăng gấp đôi hầu hết máu của các quái trên {#Rarities/ultra/Name}.
 
 Ngày 29 Tháng 12, 2023
 	- Chúng tôi đã thêm các chức năng cơ bản của hội và sẽ sớm được mở rộng. Hiện tại thì chỉ có thể truy cập qua lệnh trò chuyện.
 
 Ngày 25 Tháng 12, 2023
-	- Các quái Siêu Cấp bây giờ sẽ sinh ra nhanh gấp đôi. Tỉ lệ quái Tối Thượng xuất hiện còn nửa nên sẽ có tần suất tương tự như trước.
+	- Các quái {#Rarities/ultra/Name} bây giờ sẽ sinh ra nhanh gấp đôi. Tỉ lệ quái {#Rarities/super/Name} xuất hiện còn nửa nên sẽ có tần suất tương tự như trước.
 
 Ngày 13 Tháng 12, 2023
 	- Những cánh hoa thụ động đã bị vô hiệu hóa trong Centralia và Ellne để giảm lag.
@@ -108,17 +108,17 @@ Ngày 2 Tháng 12, 2023
 	- Chúng tôi đang chỉnh lại mức giá của một vài cánh hoa trong cửa hàng sao cho phù hợp với độ hiếm của chúng. Tạm thời, chúng tôi đang áp dụng giảm giá 50% cho tất cả mọi thứ.
 
 Ngày 3 Tháng 7, 2023
-	- Quái Tối Thượng sẽ ít sản sinh hơn nếu những con quái đó ở độ hiếm Siêu Cấp không được tiêu diệt thường xuyên.
+	- Quái {#Rarities/super/Name} sẽ ít sản sinh hơn nếu những con quái đó ở độ hiếm {#Rarities/ultra/Name} không được tiêu diệt thường xuyên.
 
 Ngày 27 Tháng 6, 2023
-	- Chúng tôi đang dần dần thêm những khả năng đặc biệt cho quái Siêu Cấp+. Hiện giờ quái Bão Cát và Sò đã có kĩ năng mới, nhiều quái khác sẽ có.
+	- Chúng tôi đang dần dần thêm những khả năng đặc biệt cho quái {#Rarities/ultra/Name}+. Hiện giờ quái Bão Cát và Sò đã có kĩ năng mới, nhiều quái khác sẽ có.
 
 Ngày 9 Tháng 5, 2023
 	- Tăng độ hồi phục của các cánh hoa hồi phục lên 50% so với trước đó (-25% so với trước ngày 1 tháng 5)
-	- Độ hồi phục và máu của các cánh hoa Siêu Cấp/Tối Thượng bị giảm một ít.
+	- Độ hồi phục và máu của các cánh hoa {#Rarities/ultra/Name}/{#Rarities/super/Name} bị giảm một ít.
 
 Ngày 3 Tháng 5, 2023
-	- Quái Siêu Cấp giờ sinh ra 10x nhanh hơn bình thường, nhưng với 3-4x tỷ lệ rơi ít hơn.
+	- Quái {#Rarities/ultra/Name} giờ sinh ra 10x nhanh hơn bình thường, nhưng với 3-4x tỷ lệ rơi ít hơn.
 
 Ngày 1 Tháng 5, 2023
 	- Bản đồ giờ đã có thêm một vài khu vực mới để khám phá! Nó vẫn đang trong quá trình thử nghiệm, một vài khu vực mới sẽ sớm được cập nhật.
@@ -128,11 +128,11 @@ Ngày 1 Tháng 5, 2023
 Ngày 13 Tháng 3, 2023
 	- PvP đã trở lại!
 	- Cổng vào được đặt ở bên phải Centralia.
-	- Đấu trường được chia thành 3 độ khó khác nhau: Thường Gặp-Sử Thi, Truyền Thuyết-Huyền Thoại, Siêu Cấp-Tối Thượng. Bạn sẽ vào khu vực phù hợp dựa trên độ hiếm của cánh hoa cao nhất mà bạn trang bị.
-	- Bạn không thể thay đổi kho trang bị khi đang trong đấu trường.
+	- Đấu trường được chia thành 3 độ khó khác nhau: {#Rarities/common/Name}-{#Rarities/epic/Name}, {#Rarities/legendary/Name}-{#Rarities/mythic/Name}, {#Rarities/ultra/Name}-{#Rarities/super/Name}. Bạn sẽ vào khu vực phù hợp dựa trên độ hiếm của cánh hoa cao nhất mà bạn trang bị.
+	- Bạn không thể thay đổi Bộ trang bị khi đang trong đấu trường.
 
 Ngày 3 Tháng 3, 2023
-	- Mỗi khi quái Tối Thượng được sinh ra, sẽ có thông báo đến tất cả người chơi ở cùng một vùng.
+	- Mỗi khi quái {#Rarities/super/Name} được sinh ra, sẽ có thông báo đến tất cả người chơi ở cùng một vùng.
 
 Ngày 2 Tháng 3, 2023
 	- Đã thêm khu vực mới trong Centralia Fields.
@@ -152,8 +152,8 @@ Ngày 19 Tháng 2, 2023
 	- Đã thêm 2 cánh hoa mới.
 
 Ngày 14 Tháng 2, 2023
-	- Quái Siêu Cấp có 1% tỷ lệ biến thành quái Tối Thương, mạnh hơn rất nhiều với khả năng rơi vật phẩm tuyệt vời.
-	- Ngưỡng sát thương của quái Ultra+ để nhận vật phẩm đã giảm từ 5% xuống 1%. Số lượng người chơi tối đa có thể nhận vật phẩm đã tăng từ 4 lên 15.
+	- Quái {#Rarities/ultra/Name} có 1% tỷ lệ biến thành quái {#Rarities/super/Name}, mạnh hơn rất nhiều với khả năng rơi vật phẩm tuyệt vời.
+	- Ngưỡng sát thương của quái {#Rarities/ultra/Name}+ để nhận vật phẩm đã giảm từ 5% xuống 1%. Số lượng người chơi tối đa có thể nhận vật phẩm đã tăng từ 4 lên 15.
 	- Yggdrasil đã bị giảm sức mạnh một chút, giờ đây hồi phục ít hơn khi hồi sinh.
 	- Đã sửa lỗi Hornet không nhận đòn đẩy lùi khi bắn tên lửa.
 
@@ -189,14 +189,14 @@ Ngày 19 Tháng 1, 2023
 
 Ngày 2 Tháng 1, 2023
 	- Do nhu cầu lớn từ người chơi, thay đổi được đề cập trong bản nhật ký trước đã được áp dụng ngay từ hôm nay.
-	- Gưới thiệu độ hiếm mới: Tối Thượng.
+	- Gưới thiệu độ hiếm mới: {#Rarities/super/Name}.
 	- Chúng tôi đã thêm một số lệnh để tham gia/tạo đội nhóm khi đang trong trò chơi. Gõ /help trong khung chat để biết thêm thông tin!
 	- Mặc định, tin nhắn chat chỉ hiển thị cho những người xung quanh bạn. Để gửi tin nhắn đến các thành viên trong đội dù họ ở đâu, hãy dùng /squad hoặc nhấn TAB.
 
 Ngày 1 Tháng 1, 2023
 	- Đã mở khóa các cánh hoa triệu hồi. Những quái được triệu hồi sẽ không thể va chạm với những con quái khác trong đội. Chúng có thể gây sát thương va chạm với những con quái khác.
 	- Một khu vực sẽ tạm thời cạn kiệt quái nếu chúng bị săn quá nhiều.
-	- Chế tạo cánh hoa Siêu Cấp đã tạm thời bị tắt. Chúng tôi đang tiến hành chỉnh chúng lại thành độ hiếm vĩnh viễn. Những cánh hoa Siêu Cấp vẫn có thể được sử dụng. Vào ngày 3 Tháng 1: mỗi 10 cánh hoa Siêu Cấp sẽ biến thành một cánh hoa Huyền Thoại. Những phần còn lại sẽ bị Hấp Thụ và cho 50k XP cho mỗi cái.
+	- Chế tạo cánh hoa {#Rarities/ultra/Name} đã tạm thời bị tắt. Chúng tôi đang tiến hành chỉnh chúng lại thành độ hiếm vĩnh viễn. Những cánh hoa {#Rarities/ultra/Name} vẫn có thể được sử dụng. Vào ngày 3 Tháng 1: mỗi 10 cánh hoa {#Rarities/ultra/Name} sẽ biến thành một cánh hoa Huyền Thoại. Những phần còn lại sẽ bị Hấp Thụ và cho 50k XP cho mỗi cái.
 	- Những quái có độ hiếm cao sẽ có mức độ khác làm chậm khác nhau.
 
 Ngày 30 Tháng 12, 2022
@@ -255,19 +255,19 @@ Ngày 6 Tháng 11, 2022
 
 Ngày 4 Tháng 11, 2022
 	- Bản đồ sẽ tăng/giảm dựa trên số lượng quái tồn tại, điều này sẽ giúp những đợt tấn công về sau tránh bị chèn ép.
-	  Công thức chế tạo cánh hoa Siêu Cấp đã được thay đổi.
-	  Bây giờ bạn có thể tạo 50 cánh hoa Siêu Cấp từ 5 cánh hoa Huyền Thoại.
+	  Công thức chế tạo cánh hoa {#Rarities/ultra/Name} đã được thay đổi.
+	  Bây giờ bạn có thể tạo 50 cánh hoa {#Rarities/ultra/Name} từ 5 cánh hoa Huyền Thoại.
 
 Ngày 3 Tháng 11, 2022
-	- Đã thay đổi cách chế tạo cánh hoa Siêu Cấp.
-	  Bây giờ có thể tạo 3 cánh hoa Siêu Cấp chỉ từ 1 cánh hoa Huyền Thoại.
+	- Đã thay đổi cách chế tạo cánh hoa {#Rarities/ultra/Name}.
+	  Bây giờ có thể tạo 3 cánh hoa {#Rarities/ultra/Name} chỉ từ 1 cánh hoa Huyền Thoại.
 	  Tuy nhiên, các cánh hoa Huyền Thoại sẽ không quay lại sau mỗi lần sử dụng, chúng sẽ bị mất vĩnh viễn.
-	  Những cánh hoa Siêu Cấp đã được tạo trước cập nhật này đã được biến đổi thành 2 cánh hoa Huyền Thoại (công thức chế tạo cũ).
+	  Những cánh hoa {#Rarities/ultra/Name} đã được tạo trước cập nhật này đã được biến đổi thành 2 cánh hoa Huyền Thoại (công thức chế tạo cũ).
 
 Ngày 2 Tháng 11, 2022
-	- Đã thêm cánh hoa Siêu Cấp.
-	  Bạn có thể kết hợp 2 cánh hoa Huyền Thoại để tạo thành một cánh hoa Siêu Cấp.
-	  Cánh hoa Siêu Cấp mạnh hơn nhiều lần cho với cánh hoa Huyền Thoại, nhưng nó chỉ tồn tại cho một trận duy nhất.
+	- Đã thêm cánh hoa {#Rarities/ultra/Name}.
+	  Bạn có thể kết hợp 2 cánh hoa Huyền Thoại để tạo thành một cánh hoa {#Rarities/ultra/Name}.
+	  Cánh hoa {#Rarities/ultra/Name} mạnh hơn nhiều lần cho với cánh hoa Huyền Thoại, nhưng nó chỉ tồn tại cho một trận duy nhất.
 	  Sau mỗi trận, chúng sẽ quay trở lại thành 1 cánh hoa Huyền Thoại (cái còn lại sẽ bị mất).
 
 Ngày 20 Tháng 10, 2022
@@ -404,7 +404,7 @@ Ngày 15 Tháng 7, 2022
 	- Đã phát hành bản đồ Sa mạc.
 
 Ngày 14 Tháng 7, 2022
-	- Quản lý Túi đồ trong trò chơi đã được đơn giản hoá, bây giờ chỉ có thể đổi các cánh hoa trong mỗi ô của Kho trang bị chính và phụ.
+	- Quản lý Túi đồ trong trò chơi đã được đơn giản hoá, bây giờ chỉ có thể đổi các cánh hoa trong mỗi ô của Bộ trang bị chính và phụ.
 
 Ngày 13 Tháng 7, 2022
 	- Tổ kiến bây giờ có thể có độ hiếm cao hơn Hiếm Gặp, nhưng kiến chúa sẽ cao hơn Hiếm Gặp.

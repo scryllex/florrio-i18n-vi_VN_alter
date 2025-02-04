@@ -7,7 +7,7 @@ UI/Title/Connecting=Đang kết nối...
 UI/Title/LoggingIn=Đang đăng nhập...
 UI/Title/Ready=Sẵn sàng
 UI/Title/GuestName=Khách
-UI/Title/GuestLimitation=Bạn có thể đặt biệt danh khi bạn liên kết tài khoản hoặc đạt cấp {0}.
+UI/Title/GuestLimitation=Bạn có thể đặt biệt danh khi bạn liên kết tài khoản hoặc đạt đến cấp {0}.
 UI/Title/Name/Title=Bông hoa nhỏ nhắn xinh xắn này mang tên...
 UI/Title/Name/Rules1=Tên phải bao gồm chữ và số hoặc {2}, và chứa {0}~{1} kí tự.
 UI/Title/Name/Rules2=Phải chứa ít nhất {0} kí tự chữ và số.
@@ -57,7 +57,7 @@ UI/Scoreboard/HiddenName=Người chơi #{0}
 
 UI/Chat/PromptTap=Chạm vào đây để trò chuyện
 UI/Chat/PromptClick=Nhấp chuột vào đây để trò chuyện
-UI/Chat/PromptKeyboardOrClick=Nhấn [ENTER] hoặc nhấp chuột vào đây để nhắn
+UI/Chat/PromptKeyboardOrClick=Nhấn [ENTER] hoặc Nhấp chuột vào đây để nhắn
 UI/Chat/Player/Block=Chặn
 UI/Chat/Player/ReportMessage=Báo cáo tin nhắn
 UI/Chat/Player/Whisper=Thì thầm
@@ -85,7 +85,6 @@ UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress=Đã hoàn thành {0}/{1}
 
 UI/MobGallery/Title=Trưng bày
-
 UI/Changelog/Title=Lịch sử Cập nhật
 UI/Changelog/Bottom=Không có lịch sử cũ hơn
 UI/Inventory/Title=Kho tàng
@@ -97,7 +96,7 @@ UI/Guild/Title=Hội
 UI/Guild/NoGuild=Bạn chưa có hội
 UI/Guild/Invite=Bạn vừa được mời vào:
 UI/Guild/Invite/Button=Chấp nhận
-UI/Guild/Invite/Expiration=Lời mời này sẽ sớm vô hiệu hoá nếu không chấp nhận
+UI/Guild/Invite/Expiration=Lời mời này sẽ sớm vô hiệu hóa nếu không chấp nhận
 UI/Guild/ChatSetting=Trò chuyện
 UI/Guild/SquadButton=Đội
 UI/Guild/KickButton=Đuổi
@@ -120,14 +119,14 @@ UI/Squad/Error/Full=Đội đã đầy
 UI/Shop/Title=Cửa hàng
 UI/Shop/Button=Cửa hàng
 UI/Shop/Instructions=Gian hàng Hôm nay:
-UI/Shop/TimeLeft=Cửa hàng sẽ thay đổi {0:timeLeft}
+UI/Shop/TimeLeft=Cửa hàng sẽ thay đổi sau {0:time}
 UI/Shop/Lock=Khóa
-UI/Shop/LockedChanged=Cửa hàng sẽ chuyển sau khi mở khóa.
-UI/Shop/LockedNoChange=Cửa hàng sẽ không chuyển trong khi bị khóa.
+UI/Shop/LockedChanged=Cửa hàng sẽ thay đổi sau khi mở khóa.
+UI/Shop/LockedNoChange=Cửa hàng sẽ không đổi trong khi bị khóa.
 UI/Shop/StarsHelp1=Bạn có thể thu thập ngôi sao bằng cách hoàn thành thử thách,
 UI/Shop/StarsHelp2=hoặc mua thêm bằng cách nhấn vào số ở phía bên phải.
-UI/Shop/MustLink1=Để sử dụng dịch vụ mua hàng, trước tiên bạn cần
-UI/Shop/MustLink2=liên kết tài khoản qua Discord hoặc Apple.
+UI/Shop/MustLink1=Để thực hiện dịch vụ mua hàng, trước tiên bạn cần
+UI/Shop/MustLink2=liên kết tài khoản với Discord hoặc Apple.
 UI/Shop/MustLinkCancel=Hủy
 UI/Shop/BuyStars/Instructions=Trong trường hộp có vấn đề với khoản mua của bạn,<n/>vui lòng liên hệ với bộ xử lý thanh toán của chúng tôi:<n/>support@xsolla.com hoặc trò chuyện trực tiếp tại xsolla.com.
 UI/Shop/BuyStars/Extra=Tôi muốn ăn tiêu dư dả
@@ -139,13 +138,19 @@ UI/Shop/MagicPetalError/Title=Lỗi
 UI/Shop/MagicPetalError/Instructions=Bạn không thể mua cánh hoa ma thuật<n/>cho đến khi bạn có {#Petals/{0}/FullName}.
 UI/Shop/MagicPetalError/Cancel=Hủy
 UI/Shop/Loyalty/Title=Cảm ơn!
-UI/Shop/Loyalty/Instructions=Như một lời cảm ơn cho sự ủng hộ của bạn,<n/>chúng tôi muốn tặng bạn một số ngôi sao miễn phí.<n/><n/>Đây là số ngôi sao tương đương với số ngôi sao bạn đã có thể nhận được<n/>nếu bạn tiêu cùng số lượng tiền bạn đã tiêu, nhưng cho các gói lớn hơn.
+UI/Shop/Loyalty/Instructions=Như một lời cảm ơn vì sự ủng hộ của bạn,<n/>chúng tôi muốn tặng bạn một số ngôi sao miễn phí.<n/><n/>Đây là số ngôi sao tương đương với số ngôi sao bạn đã có thể nhận được<n/>nếu bạn tiêu cùng số tiền bạn đã tiêu, nhưng với các gói lớn hơn.
 UI/Shop/Price/USD={0}usd
+
+UI/Banned/Title=BỊ CẤM CHƠI
+UI/Banned/Instructions=Tài khoản của bạn đã bị cấm.
+UI/Banned/TimeLeft=Lệnh cấm sẽ hết sau {0:time}.
+UI/Banned/Permanent=Lệnh cấm này là vĩnh viễn.
+UI/Banned/Account=Tài khoản: {0}
 
 UI/DailyChallenge/Title=Thử thách
 UI/DailyChallenge/Button=Thử thách
 UI/DailyChallenge/Instructions=Đánh bại những con quái sau:
-UI/DailyChallenge/TimeLeft=Thử thách sẽ đổi {0:timeLeft}
+UI/DailyChallenge/TimeLeft=Thử thách sẽ thay đổi sau {0:time}
 UI/DailyChallenge/Claimed=Đã nhận
 UI/DailyChallenge/SupportersOnly=Thử thách chỉ dành<n/>cho người ủng hộ.
 
@@ -183,7 +188,7 @@ UI/Craft/Button=Chế tạo
 UI/Craft/Chance={0:perc}% tỷ lệ thành công
 UI/Craft/UnknownChance=?% tỷ lệ thành công
 UI/Craft/CombineInstructions=Kết hợp {0} cánh hoa cùng loại để nâng cấp
-UI/Craft/FailureInstructions=Thất bại sẽ phá huỷ {0}-{1} cánh hoa
+UI/Craft/FailureInstructions=Thất bại sẽ phá hủy {0}-{1} cánh hoa
 
 UI/Absorb/Title=Hấp thụ
 UI/Absorb/Button=Hấp thụ
@@ -192,20 +197,20 @@ UI/Absorb/Instructions=Hấp thụ những cánh hoa để tăng XP<n/><c val="{
 UI/CoinCraft/Title=Trao đổi
 UI/CoinCraft/Button=Trao đổi
 UI/CoinCraft/Instructions=Bạn có thể đổi một cánh hoa cho một đồng xu cùng độ hiếm
-UI/CoinCraft/Delay=Bạn có thể đổi lại {0:timeLeft}
+UI/CoinCraft/Delay=Bạn có thể đổi lại sau {0:time}
 
 UI/OracleCraft/Title=Tiên tri
 UI/OracleCraft/Button=Chế tạo
 UI/OracleCraft/Instructions=Nhà tiên tri sẽ đảm bảo cho một lần chế tạo... với mức giá phù hợp.
-UI/OracleCraft/Delay=Bạn có thể chế tạo lại {0:timeLeft}
+UI/OracleCraft/Delay=Bạn có thể chế tạo lần nữa trong sau {0:time}
 
 UI/Plinko/Title=Plinko
 UI/Plinko/Auto=Tự động
 
 UI/UniqueCraft/Title=Luyện kim
 UI/UniqueCraft/Button=Rèn
-UI/UniqueCraft/Instructions=Những cánh hoa Độc quyền sẽ tồn tại cho đến khi người chơi khác rèn cánh hoa cùng loại.<n/>Khi đó, bạn sẽ được trả lại những cánh hoa Siêu Đẳng.<n/>Chi phí rèn sẽ tăng cho mỗi lần rèn loại cánh hoa đó.
-UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa Siêu Đẳng nào để chế tạo.
+UI/UniqueCraft/Instructions=Những cánh hoa {#Rarities/unique/Name} sẽ tồn tại cho đến khi người chơi khác rèn cánh hoa cùng loại.<n/>Khi đó, bạn sẽ được trả lại được những cánh hoa {#Rarities/super/Name}.<n/>Chi phí rèn sẽ tăng cho mỗi lần rèn loại cánh hoa đó.
+UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa {#Rarities/super/Name} nào để chế tạo.
 
 UI/Death/Poison=Ngộ độc
 

@@ -22,20 +22,20 @@ Talents/crafting_ultra/Description={#Talents/crafting/Description}
 Talents/crafting_super/Name={#Talents/crafting/Name}
 Talents/crafting_super/Description={#Talents/crafting/Description}
 
-Talents/inventory6/Name=Trang Bị
-Talents/inventory6/Description=Mở khóa ô thứ 6 trong khu vực trang bị.
+Talents/inventory6/Name=Bộ Trang Bị
+Talents/inventory6/Description=Mở khóa ô thứ 6 trong Bộ trang bị.
 
-Talents/inventory7/Name=Trang Bị
-Talents/inventory7/Description=Mở khóa ô thứ 7 trong khu vực trang bị.
+Talents/inventory7/Name=Bộ Trang Bị
+Talents/inventory7/Description=Mở khóa ô thứ 7 trong Bộ trang bị.
 
-Talents/inventory8/Name=Trang Bị
-Talents/inventory8/Description=Mở khóa ô thứ 8 trong khu vực trang bị.
+Talents/inventory8/Name=Bộ Trang Bị
+Talents/inventory8/Description=Mở khóa ô thứ 8 trong Bộ trang bị.
 
-Talents/inventory9/Name=Trang Bị
-Talents/inventory9/Description=Mở khóa ô thứ 9 trong khu vực trang bị.
+Talents/inventory9/Name=Bộ Trang Bị
+Talents/inventory9/Description=Mở khóa ô thứ 9 trong Bộ trang bị.
 
-Talents/inventory10/Name=Trang Bị
-Talents/inventory10/Description=Mở khóa ô thứ 10 trong khu vực trang bị.
+Talents/inventory10/Name=Bộ Trang Bị
+Talents/inventory10/Description=Mở khóa ô thứ 10 trong Bộ trang bị.
 
 Talents/health/Name=Sinh Tồn
 Talents/health/Description=Tăng {0:perc}% chỉ số {#Flower/Attribute/HealthNoColon} cơ bản.

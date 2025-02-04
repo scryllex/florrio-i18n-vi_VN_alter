@@ -4,15 +4,15 @@ Achievements/0/ExtraDescription=Sử dụng con trỏ để di chuyển. Bông h
 
 Achievements/1/Name=Hướng dẫn
 Achievements/1/Description=Tiêu diệt một kẻ địch.
-Achievements/1/ExtraDescription=Những con côn trùng là những kẻ địch của bạn. Tiêu diệt chúng để chúng có thể rơi ra những cánh hoa mới.<n/><n/>Tìm một con và tiêu diệt nó.<n/>Bạn có thể nhấn giữ chuột trái để đánh xa hơn.
+Achievements/1/ExtraDescription=Những con côn trùng là những kẻ địch của bạn. Tiêu diệt chúng có thể rơi ra những cánh hoa mới.<n/><n/>Tìm một con và tiêu diệt nó.<n/>Bạn có thể nhấn giữ chuột trái để đánh xa hơn.
 
 Achievements/2/Name=Hướng dẫn
 Achievements/2/Description=Nhặt một cánh hoa.
-Achievements/2/ExtraDescription=Tiếp tục tiêu diệt kẻ địch đến khi chúng rơi một cánh hoa, sau đó tiến gần và nhặt nó.
+Achievements/2/ExtraDescription=Tiếp tục tiêu diệt quái đến khi chúng rơi một cánh hoa, sau đó tiến gần và nhặt nó.
 
 Achievements/3/Name=Hướng dẫn
 Achievements/3/Description=Trang bị một cánh hoa.
-Achievements/3/ExtraDescription=Nếu bạn có đủ chỗ trong khu vực Trang bị khi nhặt một cánh hoa, nó sẽ được đặt ở đó, nếu không thì nó sẽ nằm ở trong Kho tàng của bạn.<n/>Nhấn vào cánh hoa bạn vừa thu thập để trang bị (hoặc sử dụng phím số để hoán đổi).
+Achievements/3/ExtraDescription=Nếu bạn có đủ chỗ trong Bộ trang bị khi nhặt một cánh hoa, nó sẽ được đặt trong đó, nếu không thì nó sẽ nằm ở trong Túi đồ của bạn.<n/>Nhấn vào cánh hoa bạn vừa thu thập để trang bị (hoặc sử dụng phím số để hoán đổi).
 
 # Disabled
 Achievements/4/Name=Hướng dẫn
@@ -29,11 +29,11 @@ Achievements/6/ExtraDescription=Sử dụng điểm Thiên phú mới bạn vừ
 
 Achievements/7/Name=Hướng dẫn
 Achievements/7/Description=Thu thập thêm cánh hoa.
-Achievements/7/ExtraDescription=Bây giờ chúng ta cần thu thập {0} cánh hoa {#Rarities/{1}/NameColored} cùng loại để chế tạo {#Rarities/{2}/Article} cánh hoa {#Rarities/{2}/NameColored}.<n/>Tiếp tục tiêu diệt các con côn trùng để thu thập thêm cánh hoa.
+Achievements/7/ExtraDescription=Bây giờ chúng ta cần thu thập {0} cánh hoa {#Rarities/{1}/NameColored} cùng loại để chế tạo {#Rarities/{2}/Article} cánh hoa {#Rarities/{2}/NameColored}.<n/>Tiếp tục tiêu diệt các con côn trùng để thu thập thêm thêm cánh hoa.
 
 Achievements/8/Name=Hướng dẫn
 Achievements/8/Description=Chế tạo một cánh hoa.
-Achievements/8/ExtraDescription=Bây giờ hãy thử chế tạo cánh hoa đầu tiên của bạn.<n/>Lưu ý rằng bạn có thể cần phải tháo rời một số cánh hoa để có đủ nguyên liệu cho việc chế tạo này.<n/>Bạn cần 5 cánh hoa cùng loại.<n/><n/>Đừng lo, chúng tôi đã chuẩn bị bảo hiểm cho bạn, lượt chế tạo này sẽ thành công.
+Achievements/8/ExtraDescription=Bây giờ hãy thử chế tạo cánh hoa đầu tiên của bạn.<n/>Lưu ý rằng bạn có thể cần phải tháo một số cánh hoa để có đủ nguyên liệu cho việc chế tạo này.<n/>Bạn cần 5 cánh hoa cùng loại.<n/><n/>Đừng lo, chúng tôi đã chuẩn bị bảo hiểm cho bạn, lượt chế tạo này sẽ thành công.
 
 Achievements/9/Name=Hướng dẫn
 Achievements/9/Description=Hoàn thành hướng dẫn.
@@ -149,7 +149,7 @@ Achievements/45/Description=Hoàn thành {0} thử thách.
 Achievements/46/Name=Nhà chinh phục
 Achievements/46/Description=Hoàn thành {0} thử thách.
 
-Achievements/47/Name=Nhà chinh phục
+Achievements/47/Name=Trang bị đầy đủ
 Achievements/47/Description=Trang bị {1} cánh hoa {#Rarities/{0}/Name}.
 
 Achievements/48/Name=Trang bị đầy đủ
@@ -183,9 +183,9 @@ Achievements/57/Name=Triệu hồi
 Achievements/57/Description=Triệu hồi {0} quái vật thân thiện.
 
 Achievements/58/Name=Lấp lánh!
-Achievements/58/Description=Tiêu diệt một con bọ cánh cứng vàng.
+Achievements/58/Description=Tiêu diệt một con bọ rùa vàng.
 
-Achievements/59/Name=Nhầm trò chơi rồi nhóc
+Achievements/59/Name=Nhầm trò chơi rồi bạn à
 Achievements/59/Description=Tiêu diệt một hình vuông.
 
 Achievements/60/Name=Kẻ gieo đau thương
@@ -294,7 +294,7 @@ Achievements/94/Name=Nhà giàu
 Achievements/94/Description=Thu thập {0} vật phẩm trong vòng {1:time}.
 
 Achievements/95/Name=Thợ săn châu báu
-Achievements/95/Description=Tiêu diệt {0} bọ cánh cứng vàng trong vòng {1:time}.
+Achievements/95/Description=Tiêu diệt {0} bọ rùa vàng trong vòng {1:time}.
 
 Achievements/96/Name=Thợ săn Siêu đẳng
 Achievements/96/Description=Tiêu diệt {0} con quái {#Rarities/{1}/Name}.
