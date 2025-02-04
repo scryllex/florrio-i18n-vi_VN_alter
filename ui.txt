@@ -121,7 +121,7 @@ UI/Squad/Error/Full=Đội đã đầy
 UI/Shop/Title=Cửa hàng
 UI/Shop/Button=Cửa hàng
 UI/Shop/Instructions=Gian hàng Hôm nay:
-UI/Shop/TimeLeft=Cửa hàng sẽ thay đổi {0:timeLeft}
+UI/Shop/TimeLeft=Cửa hàng sẽ thay đổi sau {0:time}
 UI/Shop/Lock=Khóa
 UI/Shop/LockedChanged=Cửa hàng sẽ đổi sau khi mở khóa.
 UI/Shop/LockedNoChange=Cửa hàng sẽ không đổi trong khi bị khóa.
@@ -143,10 +143,16 @@ UI/Shop/Loyalty/Title=Cảm ơn!
 UI/Shop/Loyalty/Instructions=Như một lời cảm ơn vì sự ủng hộ của bạn,<n/>chúng tôi muốn tặng bạn một số ngôi sao miễn phí.<n/><n/>Đây là số ngôi sao tương đương với số ngôi sao bạn đã có thể nhận được<n/>nếu bạn tiêu cùng số tiền bạn đã tiêu, nhưng với các gói lớn hơn.
 UI/Shop/Price/USD={0}usd
 
+UI/Banned/Title=BỊ CẤM CHƠI
+UI/Banned/Instructions=Tài khoản của bạn đã bị cấm.
+UI/Banned/TimeLeft=Lệnh cấm sẽ hết sau {0:time}.
+UI/Banned/Permanent=Lệnh cấm này là vĩnh viễn.
+UI/Banned/Account=Tài khoản: {0}
+
 UI/DailyChallenge/Title=Thử thách
 UI/DailyChallenge/Button=Thử thách
 UI/DailyChallenge/Instructions=Đánh bại những con quái sau:
-UI/DailyChallenge/TimeLeft=Thử thách sẽ đổi {0:timeLeft}
+UI/DailyChallenge/TimeLeft=Thử thách sẽ đổi sau {0:time}
 UI/DailyChallenge/Claimed=Đã nhận
 UI/DailyChallenge/SupportersOnly=Thử thách chỉ dành<n/>cho người ủng hộ.
 
@@ -193,12 +199,12 @@ UI/Absorb/Instructions=Hấp thụ những cánh hoa để tăng XP<n/><c val="{
 UI/CoinCraft/Title=Trao đổi
 UI/CoinCraft/Button=Trao đổi
 UI/CoinCraft/Instructions=Bạn có thể đổi một cánh hoa cho một đồng xu cùng độ hiếm
-UI/CoinCraft/Delay=Bạn có thể đổi lại {0:timeLeft}
+UI/CoinCraft/Delay=Bạn có thể đổi lại sau {0:time}
 
 UI/OracleCraft/Title=Tiên tri
 UI/OracleCraft/Button=Chế tạo
 UI/OracleCraft/Instructions=Nhà tiên tri sẽ đảm bảo cho một lần chế tạo... với mức giá phù hợp.
-UI/OracleCraft/Delay=Bạn có thể chế tạo lần nữa trong {0:timeLeft}
+UI/OracleCraft/Delay=Bạn có thể chế tạo lần nữa trong sau {0:time}
 
 UI/Plinko/Title=Plinko
 UI/Plinko/Auto=Tự động

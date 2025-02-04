@@ -4,12 +4,6 @@ UI/Time/Minutes={0} phút
 UI/Time/Seconds={0} giây
 UI/Time/Now=ngay bây giờ
 
-UI/TimeLeft/Days=sau {0} ngày
-UI/TimeLeft/Hours=sau {0} giờ
-UI/TimeLeft/Minutes=sau {0} phút
-UI/TimeLeft/Seconds=sau {0} giây
-UI/TimeLeft/Now=ngay bây giờ
-
 UI/TooltipTime/Days={0:tooltip} ngày
 UI/TooltipTime/Hours={0:tooltip} giờ
 UI/TooltipTime/Minutes={0:tooltip} phút

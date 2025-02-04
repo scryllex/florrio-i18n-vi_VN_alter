@@ -47,7 +47,7 @@ Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại bởi {2
 Chat/Revived=Bạn đã được cứu bởi {0}.
 Chat/Marked=Bạn đã bị đánh dấu bởi {0}.
 
-Chat/Muted=Bạn không được phép trò chuyện ngay bây giờ vì những tin nhắn không phù hợp trước đó.<n/>Bạn sẽ có thể trò chuyện lại {0:timeLeft}.
+Chat/Muted=Bạn không được phép trò chuyện ngay bây giờ vì những tin nhắn không phù hợp trước đó.<n/>Bạn sẽ có thể trò chuyện lại sau {0:time}.
 Chat/Spam=Bạn đang nhắn quá nhiều.
 Chat/Alone=Không ai ở xung quanh nghe thấy bạn cả.
 Chat/Banned=Bạn đang bị cấm chơi.
@@ -59,7 +59,7 @@ Chat/GuildChannelDisabled=Bạn đã tắt tin nhắn hội.
 Chat/GuestTooChatty=Xin lỗi, tài khoản khách có quyền trò chuyện hạn chế cho đến khi họ đạt cấp {0}.
 Chat/PlayerReported=Đã báo cáo người chơi.
 Chat/PlayerBlocked={0} vừa bị chặn.
-Chat/ServerClosing=Máy chủ sẽ đóng {0:timeLeft}.
+Chat/ServerClosing=Máy chủ sẽ đóng sau {0:time}.
 Chat/ServerClosed=Máy chủ đã đóng, đã đến lúc thoát.
 Chat/ServerNoLongerClosing=Máy chủ không còn đóng nữa.
 
