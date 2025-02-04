@@ -1,14 +1,14 @@
-Rarities/common/Name=Thường
+Rarities/common/Name=Thường Gặp
 Rarities/common/ArticleUpper=Một
 Rarities/common/Article=một
 Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
 
-Rarities/unusual/Name=Khác Thường
+Rarities/unusual/Name=Ít Gặp
 Rarities/unusual/ArticleUpper=Một
 Rarities/unusual/Article=một
 Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
 
-Rarities/rare/Name=Hiếm
+Rarities/rare/Name=Hiếm Gặp
 Rarities/rare/ArticleUpper=Một
 Rarities/rare/Article=một
 Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
