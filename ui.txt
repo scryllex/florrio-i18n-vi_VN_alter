@@ -257,6 +257,8 @@ UI/Settings/KeyboardMovement=Điều khiển bàn phím
 
 UI/Settings/MovementHelper=Trợ giúp di chuyển
 
+UI/Settings/AutoSearchPetals=Tự động tìm kiếm cánh hoa khi mở kho tàng
+
 UI/Settings/FixedJoystick=Cố định điều khiển
 
 UI/Settings/AutoSaveLoadout=Tự động lưu trang bị
