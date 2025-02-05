@@ -54,7 +54,7 @@ Petals/missile/Type=thing1
 Petals/grapes/Name=Nho
 Petals/grapes/SortName=n*0h*0o*0
 Petals/grapes/FullName=Nho
-Petals/grapes/Description=Bùm. Kèm công thức bí mật: độc.
+Petals/grapes/Description=Bùm. Kèm công thức bí mật: {#Attribute/PoisonNoColon}.
 Petals/grapes/Type=bunch1
 
 Petals/cactus/Name=Xương Rồng
@@ -277,7 +277,7 @@ Clover_name/unique=Sáu
 Petals/clover/Name=Cỏ
 Petals/clover/SortName=c*0o*4
 Petals/clover/FullName=Cỏ {#Clover_name/{0:rarity}} Lá
-Petals/clover/Description=Tăng Vận may của bạn.<n/>Vân may được sử dụng để thay đổi chỉ số của một số cánh hoa.
+Petals/clover/Description=Tăng {#Flower/Attribute/LuckNoColon} của bạn.<n/>Vân may được sử dụng để thay đổi chỉ số của một số cánh hoa.
 Petals/clover/Type=plant
 
 Petals/powder/Name=Bột
@@ -371,7 +371,7 @@ Petals/mark/Description=Một kí hiệu hắc ám ràng buộc chính nó lên 
 Petals/rubber/Name=Cao Su
 Petals/rubber/SortName=c*0a*0o*0 s*0u*0
 Petals/rubber/FullName=Cao Su
-Petals/rubber/Description=Tăng độ đàn hồi. Có thể hấp thụ sát thương điện nhận vào.
+Petals/rubber/Description=Tăng độ đàn hồi. Có thể hấp thụ sát thương {#Attribute/LightningNoColon} nhận vào.
 Petals/rubber/Type=thing1
 
 Petals/blood_stinger/Name=Ngòi
@@ -401,7 +401,7 @@ Petals/ankh/Type=thing1
 Petals/dice/Name=Xúc Xắc
 Petals/dice/SortName=x*0u*1c*0 x*0a+1c*0
 Petals/dice/FullName=Xúc Xắc
-Petals/dice/Description=Có 5% tỷ lệ để gây ra lượng sát thương thêm bằng 35x sát thương cơ bản.<n/>Tỷ lệ được tăng lên 4% cho mỗi 1 điểm Vận may.
+Petals/dice/Description=Có 5% tỷ lệ để gây ra lượng sát thương thêm bằng 35x sát thương cơ bản.<n/>Tỷ lệ được tăng lên 4% cho mỗi điểm {#Flower/Attribute/LuckNoColon}.
 Petals/dice/Type=thing1
 
 Petals/talisman/Name=Bùa
@@ -466,7 +466,7 @@ Petals/moon/Type=block1
 Petals/privet/Name=Mọng
 Petals/privet/SortName=m*0o*5n*0g*0
 Petals/privet/FullName=Mọng
-Petals/privet/Description=Gây lượng sát thương {#Attribute/PoisonNoColon} thêm dựa vào sát thương {#Attribute/PoisonNoColon} trên giây đã có.
+Petals/privet/Description=Gây lượng sát thương {#Attribute/PoisonNoColon} thêm dựa vào sát thương {#Attribute/PoisonNoColon} trên giây đã có trên mục tiêu.
 Petals/privet/Type=sphere
 
 Petals/glass/Name=Kính
@@ -484,13 +484,13 @@ Petals/corruption/Type=block2
 Petals/orb/Name=Mana
 Petals/orb/SortName=m*0a*0n*0a*0
 Petals/orb/FullName=Hạt Ma Thuật
-Petals/orb/Description=Tạo Năng lượng.
+Petals/orb/Description=Tạo {#Attribute/ManaNoColon}.
 Petals/orb/Type=sphere
 
 Petals/blueberries/Name=Việt Quất
 Petals/blueberries/SortName=v*0i*0e+5t*0 q*0u*0a-1t*0
 Petals/blueberries/FullName=Việt Quất
-Petals/blueberries/Description=Bùm. Với công thức bí mật: điện.
+Petals/blueberries/Description=Bùm. Với công thức bí mật: {#Attribute/LightningNoColon}.
 Petals/blueberries/Type=sphere
 
 Petals/magic_cotton/Name=Bông
@@ -508,19 +508,19 @@ Petals/magic_stinger/Type=thing1
 Petals/magic_leaf/Name=Lá
 Petals/magic_leaf/SortName=l*0a*1 m*0a*0 t*0h*0u*0a-5t*0
 Petals/magic_leaf/FullName=Lá Ma Thuật
-Petals/magic_leaf/Description=Thu thập Năng lượng từ môi trường xung quanh một cách thụ động.
+Petals/magic_leaf/Description=Thu thập {#Attribute/ManaNoColon} từ môi trường xung quanh một cách thụ động.
 Petals/magic_leaf/Type=thing1
 
 Petals/magic_cactus/Name=Xương Rồng
 Petals/magic_cactus/SortName=x*0u+0o-0n*0g*0 r*0o+2n*0g*0 m*0a*0 t*0h*0u*0a-5t*0
 Petals/magic_cactus/FullName=Xương Rồng Ma Thuật
-Petals/magic_cactus/Description=Tăng sức chứa Năng lượng.
+Petals/magic_cactus/Description=Tăng sức chứa {#Attribute/ManaNoColon}.
 Petals/magic_cactus/Type=plant
 
 Petals/magic_eye/Name=Mắt
 Petals/magic_eye/SortName=m*0a+1t*0 m*0a*0 t*0h*0u*0a-5t*0
 Petals/magic_eye/FullName=Mắt Ma Thuật
-Petals/magic_eye/Description=Tiêu thụ một nửa lượng Năng lượng hiện có và gây sát thương dựa vào phần Năng lượng đó.
+Petals/magic_eye/Description=Tiêu thụ một nửa lượng {#Attribute/ManaNoColon} hiện có và gây sát thương dựa vào phần {#Attribute/ManaNoColon} đó.
 Petals/magic_eye/Type=thing2
 
 Petals/magic_missile/Name=Đạn
