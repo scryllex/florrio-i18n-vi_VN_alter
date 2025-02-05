@@ -14,7 +14,7 @@ UI/Title/Name/Rules2=Phải chứa ít nhất {0} kí tự chữ và số.
 UI/Title/Name/Rules3=Không thể chứa liên tiếp kí tự {0}.
 UI/Title/Name/Rules4=Tên này sẽ cố định và không thể sửa đổi sau này.
 UI/Title/Name/Button=OK
-UI/Title/Name/Bad=Tên của bạn đã được tái lập, hãy chọn một tên mới.
+UI/Title/Name/Bad=Tên của bạn đã bị tái lập, hãy chọn một tên mới.
 UI/Title/Name/AlreadyTaken=Tên đã được sử dụng.
 UI/Title/Name/InternalError=Lỗi nội bộ, vui lòng thử lại sau.
 
@@ -25,7 +25,7 @@ UI/Title/Biome/2=Đại Dương
 UI/Title/Biome/3=Rừng Rậm
 UI/Title/Biome/4=Địa Ngục
 
-UI/Login/Title=Tài khoản
+UI/Login/Title=Tài Khoản
 UI/Login/PlayAsGuest=Chơi với tư cách là khách
 UI/Login/SignInApple=Đăng nhập bằng Apple
 UI/Login/SignInDiscord=Đăng nhập bằng Discord
@@ -45,7 +45,7 @@ UI/Login/Reminder=Liên kết tài khoản để lưu tiến trình
 UI/Social/Discord=Tham gia cộng đồng Discord của chúng tôi!
 UI/Social/QQ=加入我们的QQ群!
 
-UI/AbandonGame=Thoát game
+UI/AbandonGame=Thoát trò chơi
 UI/Reconnecting=Mất kết nối, đang kết nối lại...
 
 UI/LevelBar/Level=Cấp {0}
@@ -75,11 +75,11 @@ UI/Death/Continue=Tiếp tục
 UI/Death/Close=Đóng
 UI/Death/CollectedThisRun=Vật phẩm lượt chơi này
 
-UI/AFKCheck/Title=Kiểm tra Treo máy
+UI/AFKCheck/Title=Kiểm Tra Treo Máy
 UI/AFKCheck/Instructions=Kéo vòng tròn đến cuối đường
 
-UI/Achievements/Title=Thành tựu
-UI/Achievements/Reward=Phần thưởng
+UI/Achievements/Title=Thành Tựu
+UI/Achievements/Reward=Phần Thưởng
 UI/Achievements/RewardTP={0} TP
 UI/Achievements/Done=Đã hoàn thành
 UI/Achievements/Track=Theo dõi
@@ -88,10 +88,10 @@ UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress=Đã hoàn thành {0}/{1}
 UI/Achievements/UnlockedNotification=Đã mở khoá thành công
 
-UI/MobGallery/Title=Trưng bày
-UI/Changelog/Title=Lịch sử Cập nhật
+UI/MobGallery/Title=Trưng Bày
+UI/Changelog/Title=Lịch Sử Cập Nhật
 UI/Changelog/Bottom=Không có lịch sử cũ hơn
-UI/Inventory/Title=Kho tàng
+UI/Inventory/Title=Kho Tàng
 UI/Inventory/Stack=Xếp chồng
 UI/Inventory/Instructions=Kéo thả cánh hoa để trang bị
 UI/Inventory/Speed=Quay
@@ -120,8 +120,8 @@ UI/Squad/Error/CannotJoin=Bạn không thể tham gia đội này
 UI/Squad/Error/LevelDifference=Cấp độ của bạn chưa đủ so với cấp độ chung của đội
 UI/Squad/Error/Full=Đội đã đầy
 
-UI/Shop/Title=Cửa hàng
-UI/Shop/Button=Cửa hàng
+UI/Shop/Title=Cửa Hàng
+UI/Shop/Button=Cửa Hàng
 UI/Shop/Instructions=Gian hàng Hôm nay:
 UI/Shop/TimeLeft=Cửa hàng sẽ thay đổi sau {0:time}
 UI/Shop/Lock=Khóa
@@ -143,7 +143,7 @@ UI/Shop/MagicPetalError/Instructions=Bạn không thể mua cánh hoa ma thuật
 UI/Shop/MagicPetalError/Cancel=Hủy
 UI/Shop/Loyalty/Title=Cảm ơn!
 UI/Shop/Loyalty/Instructions=Như một lời cảm ơn vì sự ủng hộ của bạn,<n/>chúng tôi muốn tặng bạn một số ngôi sao miễn phí.<n/><n/>Đây là số ngôi sao tương đương với số ngôi sao bạn đã có thể nhận được<n/>nếu bạn tiêu cùng số tiền bạn đã tiêu, nhưng với các gói lớn hơn.
-UI/Shop/Price/USD={0}usd
+UI/Shop/Price/USD={0}USD
 
 UI/Banned/Title=BỊ CẤM CHƠI
 UI/Banned/Instructions=Tài khoản của bạn đã bị cấm.
@@ -151,8 +151,8 @@ UI/Banned/TimeLeft=Lệnh cấm sẽ hết sau {0:time}.
 UI/Banned/Permanent=Lệnh cấm này là vĩnh viễn.
 UI/Banned/Account=Tài khoản: {0}
 
-UI/DailyChallenge/Title=Thử thách
-UI/DailyChallenge/Button=Thử thách
+UI/DailyChallenge/Title=Thử Thách
+UI/DailyChallenge/Button=Thử Thách
 UI/DailyChallenge/Instructions=Đánh bại những con quái sau:
 UI/DailyChallenge/TimeLeft=Thử thách sẽ thay đổi sau {0:time}
 UI/DailyChallenge/Claimed=Đã nhận
@@ -187,23 +187,23 @@ UI/Talent/Tooltip=Bạn có thể kiếm được nhiều TP hơn bằng cách t
 UI/Talent/Reset=Tái thiết lập
 UI/Talent/HoldToUpgrade=NHẤN GIỮ để nâng cấp
 
-UI/Craft/Title=Chế tạo
+UI/Craft/Title=Chế Tạo
 UI/Craft/Button=Chế tạo
 UI/Craft/Chance={0:perc}% tỷ lệ thành công
 UI/Craft/UnknownChance=?% tỷ lệ thành công
 UI/Craft/CombineInstructions=Kết hợp {0} cánh hoa cùng loại để nâng cấp
 UI/Craft/FailureInstructions=Thất bại sẽ phá hủy {0}-{1} cánh hoa
 
-UI/Absorb/Title=Hấp thụ
+UI/Absorb/Title=Hấp Thụ
 UI/Absorb/Button=Hấp thụ
 UI/Absorb/Instructions=Hấp thụ những cánh hoa để tăng XP<n/><c val="{#Colors/danger}">CẢNH BÁO: Những cánh hoa sẽ bị phá hủy trong quá trình này</c>
 
-UI/CoinCraft/Title=Trao đổi
+UI/CoinCraft/Title=Trao Đổi
 UI/CoinCraft/Button=Trao đổi
 UI/CoinCraft/Instructions=Bạn có thể đổi một cánh hoa cho một đồng xu cùng độ hiếm
 UI/CoinCraft/Delay=Bạn có thể đổi lại sau {0:time}
 
-UI/OracleCraft/Title=Tiên tri
+UI/OracleCraft/Title=Tiên Tri
 UI/OracleCraft/Button=Chế tạo
 UI/OracleCraft/Instructions=Nhà tiên tri sẽ đảm bảo cho một lần chế tạo... với mức giá phù hợp.
 UI/OracleCraft/Delay=Bạn có thể chế tạo lần nữa trong sau {0:time}
@@ -211,14 +211,14 @@ UI/OracleCraft/Delay=Bạn có thể chế tạo lần nữa trong sau {0:time}
 UI/Plinko/Title=Plinko
 UI/Plinko/Auto=Tự động
 
-UI/UniqueCraft/Title=Luyện kim
+UI/UniqueCraft/Title=Luyện Kim
 UI/UniqueCraft/Button=Rèn
 UI/UniqueCraft/Instructions=Những cánh hoa {#Rarities/unique/Name} sẽ tồn tại cho đến khi<n/>người chơi khác rèn cánh hoa cùng loại.<n/>Khi đó, bạn sẽ được trả lại những cánh hoa {#Rarities/super/Name}.<n/>Chi phí rèn sẽ tăng cho mỗi lần rèn loại cánh hoa đó.
 UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa {#Rarities/super/Name} nào để chế tạo.
 
 UI/Death/Poison=Ngộ độc
 
-UI/Settings/Title=Cài đặt
+UI/Settings/Title=Cài Đặt
 UI/Settings/Game=Trò chơi
 UI/Settings/Graphics=Đồ họa
 UI/Settings/Controls=Điều khiển
