@@ -66,6 +66,9 @@ UI/Chat/Player/InviteToGuild=Mời vào Hội
 
 UI/Flower/Level=Cấp {0}
 
+UI/Damage/Evade=Vô hiệu
+UI/Damage/Miss=Trượt
+
 UI/Death/Title=Bạn vừa bị tiêu diệt bởi:
 UI/Death/NoSource=Một thực thể bí ẩn
 UI/Death/Continue=Tiếp tục
@@ -83,6 +86,7 @@ UI/Achievements/Track=Theo dõi
 UI/Achievements/TrackAutomatically=Tự động theo dõi
 UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress=Đã hoàn thành {0}/{1}
+UI/Achievements/UnlockedNotification=Đã mở khoá thành công
 
 UI/MobGallery/Title=Trưng bày
 UI/Changelog/Title=Lịch sử Cập nhật
@@ -209,7 +213,7 @@ UI/Plinko/Auto=Tự động
 
 UI/UniqueCraft/Title=Luyện kim
 UI/UniqueCraft/Button=Rèn
-UI/UniqueCraft/Instructions=Những cánh hoa {#Rarities/unique/Name} sẽ tồn tại cho đến khi người chơi khác rèn cánh hoa cùng loại.<n/>Khi đó, bạn sẽ được trả lại được những cánh hoa {#Rarities/super/Name}.<n/>Chi phí rèn sẽ tăng cho mỗi lần rèn loại cánh hoa đó.
+UI/UniqueCraft/Instructions=Những cánh hoa {#Rarities/unique/Name} sẽ tồn tại cho đến khi<n/>người chơi khác rèn cánh hoa cùng loại.<n/>Khi đó, bạn sẽ được trả lại những cánh hoa {#Rarities/super/Name}.<n/>Chi phí rèn sẽ tăng cho mỗi lần rèn loại cánh hoa đó.
 UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa {#Rarities/super/Name} nào để chế tạo.
 
 UI/Death/Poison=Ngộ độc
@@ -257,7 +261,7 @@ UI/Settings/KeyboardMovement=Điều khiển bàn phím
 
 UI/Settings/MovementHelper=Trợ giúp di chuyển
 
-UI/Settings/AutoSearchPetals=Tự động tìm kiếm cánh hoa khi mở kho tàng
+UI/Settings/AutoSearchPetals=Thanh tìm kiếm cánh hoa trong kho tàng
 
 UI/Settings/FixedJoystick=Cố định điều khiển
 
@@ -266,7 +270,7 @@ UI/Settings/AutoSaveLoadout=Tự động lưu trang bị
 UI/Settings/PrivacyPolicy=Chính sách Bảo mật
 UI/Settings/TermsOfService=Điều khoản Dịch vụ
 
-UI/Credits/MadeBy=Được tạo bởi {0}
+UI/Credits/MadeBy=Được sáng lập bởi {0}
 UI/Credits/SomeIcons=Một số biểu tượng từ {0}
 UI/Credits/SomeTiles=Một số nền từ {0}
 UI/Credits/SpecialThanks=Đặc biệt Cảm ơn
