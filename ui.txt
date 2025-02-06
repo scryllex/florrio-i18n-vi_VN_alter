@@ -91,7 +91,7 @@ UI/Achievements/UnlockedNotification=Đã mở khoá thành công
 UI/MobGallery/Title=Trưng Bày
 UI/Changelog/Title=Lịch Sử Cập Nhật
 UI/Changelog/Bottom=Không có lịch sử cũ hơn
-UI/Inventory/Title=Kho Tàng
+UI/Inventory/Title=Túi Đồ
 UI/Inventory/Stack=Xếp chồng
 UI/Inventory/Instructions=Kéo thả cánh hoa để trang bị
 UI/Inventory/Speed=Quay
@@ -261,7 +261,7 @@ UI/Settings/KeyboardMovement=Điều khiển bàn phím
 
 UI/Settings/MovementHelper=Trợ giúp di chuyển
 
-UI/Settings/AutoSearchPetals=Thanh tìm kiếm cánh hoa trong kho tàng
+UI/Settings/AutoSearchPetals=Tự động tìm kiếm cánh hoa trong túi đồ
 
 UI/Settings/FixedJoystick=Cố định điều khiển
 
