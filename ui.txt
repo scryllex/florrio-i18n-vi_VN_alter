@@ -95,6 +95,7 @@ UI/Inventory/Title=Túi Đồ
 UI/Inventory/Stack=Xếp chồng
 UI/Inventory/Instructions=Kéo thả cánh hoa để trang bị
 UI/Inventory/Speed=Quay
+UI/Inventory/Rarity={#UI/Petal/Rarity}
 
 UI/Guild/Title=Hội
 UI/Guild/NoGuild=Bạn chưa có hội
