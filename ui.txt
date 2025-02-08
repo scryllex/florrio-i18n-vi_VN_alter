@@ -95,6 +95,7 @@ UI/Inventory/Title=Túi Đồ
 UI/Inventory/Stack=Xếp chồng
 UI/Inventory/Instructions=Kéo thả cánh hoa để trang bị
 UI/Inventory/Speed=Quay
+UI/Inventory/Rarity={#UI/Petal/Rarity}
 
 UI/Guild/Title=Hội
 UI/Guild/NoGuild=Bạn chưa có hội
@@ -266,6 +267,7 @@ UI/Settings/AutoSearchPetals=Tự động tìm kiếm cánh hoa trong túi đồ
 UI/Settings/FixedJoystick=Cố định điều khiển
 
 UI/Settings/AutoSaveLoadout=Tự động lưu trang bị
+UI/Settings/AutoSaveLoadout/Help=Nếu tắt, ấn [0] để lưu trang bị hiện tại
 
 UI/Settings/PrivacyPolicy=Chính sách Bảo mật
 UI/Settings/TermsOfService=Điều khoản Dịch vụ
