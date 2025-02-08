@@ -277,7 +277,7 @@ Clover_name/unique=Sáu
 Petals/clover/Name=Cỏ
 Petals/clover/SortName=c*0o*4
 Petals/clover/FullName=Cỏ {#Clover_name/{0:rarity}} Lá
-Petals/clover/Description=Tăng {#Flower/Attribute/LuckNoColon} của bạn.<n/>Vân may được sử dụng để thay đổi chỉ số của một số cánh hoa.
+Petals/clover/Description=Tăng {#Flower/Attribute/LuckNoColon} của bạn.<n/>Vận may được sử dụng để thay đổi chỉ số của một số cánh hoa.
 Petals/clover/Type=plant
 
 Petals/powder/Name=Bột
