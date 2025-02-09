@@ -248,9 +248,9 @@ Petals/fangs/FullName=Nanh
 Petals/fangs/Description=Trị liệu phụ thuộc vào sát thương gây ra bởi chính cánh hoa này.
 Petals/fangs/Type=thing1
 
-Petals/third_eye/Name=Mắt
-Petals/third_eye/SortName=m*0a+1t*0
-Petals/third_eye/FullName=Con Mắt Thứ Ba
+Petals/third_eye/Name=Nhãn
+Petals/third_eye/SortName=n*0h*0a*4n*0 t*0a*0m*0
+Petals/third_eye/FullName=Tam Nhãn
 Petals/third_eye/Description=Cho phép bạn tung các cánh hoa ra xa hơn.
 
 Petals/peas/Name=Đậu
@@ -482,8 +482,8 @@ Petals/corruption/Description=Làm ô uế linh hồn, khiến họ chống lạ
 Petals/corruption/Type=block2
 
 Petals/orb/Name=Mana
-Petals/orb/SortName=m*0a*0n*0a*0
-Petals/orb/FullName=Hạt Ma Thuật
+Petals/orb/SortName=m*0a*0 c*0a-2u*0
+Petals/orb/FullName=Ma Cầu
 Petals/orb/Description=Tạo {#Attribute/ManaNoColon}.
 Petals/orb/Type=sphere
 
@@ -517,9 +517,9 @@ Petals/magic_cactus/FullName=Xương Rồng Ma Thuật
 Petals/magic_cactus/Description=Tăng sức chứa {#Attribute/ManaNoColon}.
 Petals/magic_cactus/Type=plant
 
-Petals/magic_eye/Name=Mắt
-Petals/magic_eye/SortName=m*0a+1t*0 m*0a*0 t*0h*0u*0a-5t*0
-Petals/magic_eye/FullName=Mắt Ma Thuật
+Petals/magic_eye/Name=Nhãn
+Petals/magic_eye/SortName=n*0h*0a*4n*0 m*0a*0
+Petals/magic_eye/FullName=Ma Nhãn
 Petals/magic_eye/Description=Tiêu thụ một nửa lượng {#Attribute/ManaNoColon} hiện có và gây sát thương dựa vào phần {#Attribute/ManaNoColon} đó.
 Petals/magic_eye/Type=thing2
 
