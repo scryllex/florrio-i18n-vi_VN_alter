@@ -267,7 +267,7 @@ UI/Settings/AutoSearchPetals=Tự động tìm kiếm cánh hoa trong túi đồ
 UI/Settings/FixedJoystick=Cố định điều khiển
 
 UI/Settings/AutoSaveLoadout=Tự động lưu trang bị
-UI/Settings/AutoSaveLoadout/Help=Nếu tắt, ấn [0] để lưu trang bị hiện tại
+UI/Settings/AutoSaveLoadout/Help=Nếu tắt, ấn [O] để lưu trang bị hiện tại
 
 UI/Settings/PrivacyPolicy=Chính sách Bảo mật
 UI/Settings/TermsOfService=Điều khoản Dịch vụ
