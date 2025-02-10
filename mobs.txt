@@ -29,7 +29,7 @@ Mobs/ant_worker/SortName=k*0i*0e+1n*0 t*0h*0o-5
 Mobs/ant_worker/Description=Tính tình hơi thất thường, có lẽ vì làm việc quá nhiều.
 Mobs/ant_worker/Type=moveable
 
-Mobs/ant_soldier/Name=Kiến Đực
+Mobs/ant_soldier/Name=Kiến lính
 Mobs/ant_soldier/SortName=k*0i*0e+1n*0 d+0u+5c*0
 Mobs/ant_soldier/Description=Nó có cánh và sẵn sàng sử dụng chúng.
 Mobs/ant_soldier/Type=moveable
@@ -108,7 +108,7 @@ Mobs/scorpion/SortName=b*0o*5 c*0a*5p*0
 Mobs/scorpion/Description=CẨN THẬN BỊ CHÍCH!
 Mobs/scorpion/Type=moveable
 
-Mobs/fire_ant_soldier/Name=Kiến Lửa Đực
+Mobs/fire_ant_soldier/Name=Kiến Lửa lính
 Mobs/fire_ant_soldier/SortName=k*0i*0e+1n*0 l*0u+3a*0 d+0u+5c*0
 Mobs/fire_ant_soldier/Description=Con kiến này đang bùng cháyyyyyyyy.
 Mobs/fire_ant_soldier/Type=moveable
