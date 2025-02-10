@@ -424,3 +424,6 @@ Achievements/137/Description=Chế tạo {#Rarities/{0}/Article} cánh hoa {#Rar
 
 Achievements/138/Name=Pháp sư
 Achievements/138/Description=Trang bị một {#Petals/{0}/Name}.
+
+Achievements/139/Name=Tôi cảm thấy may mắn
+Achievements/139/Description=Nhận thêm vật phẩm rơi nhờ {#Petals/{0:base}/FullName}.
