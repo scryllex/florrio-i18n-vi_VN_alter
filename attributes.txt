@@ -52,8 +52,8 @@ Petal/Attribute/HealPerc=<c val="{#Colors/heal}">Trị Liệu:</c> {0:perc}%
 Petal/Attribute/Poison=<c val="{#Colors/poison}">Độc:</c> {0:tooltip} ({1:tooltip}/giây)
 Petal/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Độc:</c> {0:tooltip}/giây
 Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">Kháng Độc:</c> {0:tooltip}/giây
-Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Máu:</c> {0:tooltip}
-Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Máu:</c> +{0:perc}%
+Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Máu Bông Hoa:</c> {0:tooltip}
+Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Máu Bông Hoa:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">Thời Gian Duy Trì:</c> {0:tooltipTime}
 Petal/Attribute/Contents=<c val="{#Colors/generic}">Chứa:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
 Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">Tầm Nhìn Thêm:</c> {0:perc}%
