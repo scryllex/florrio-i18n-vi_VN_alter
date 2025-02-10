@@ -261,7 +261,7 @@ Mobs/moth/Type=moveable
 
 Mobs/firefly/Name=Đom Đóm
 Mobs/firefly/SortName=d+0o*0m*0 d+0o*1m*0
-Mobs/firefly/Description=Ồ... phát sáng.
+Mobs/firefly/Description=Ồ... lấp lánh.
 Mobs/firefly/Spawn=Có tia ánh sáng rực rỡ từ phía chân trời...
 Mobs/firefly/Type=moveable
 
@@ -330,7 +330,7 @@ Mobs/beetle_nazar/Type=moveable
 
 Mobs/worm/Name=Giun
 Mobs/worm/SortName=g*0i*0u*0n*0
-Mobs/worm/Description=Được sinh ra để ăn đất, nhưng con này có vẻ thích ăn hoa hơn.
+Mobs/worm/Description=Đúng ra nó phải ăn đất, nhưng con này có vẻ thích ăn hoa hơn.
 Mobs/worm/Type=moveable
 
 Mobs/worm_guts/Name=Ruột Giun
