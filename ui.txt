@@ -1,4 +1,4 @@
-UI/Language/Name=Tiếng Việt (VIE)
+UI/Language/Name=Tiếng Việt
 # These are the translators that worked on this translation. Separate with <n/>
 UI/Language/Credits=Furaken<n/>NullArea<n/>scryllex
 
