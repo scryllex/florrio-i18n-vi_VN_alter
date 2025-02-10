@@ -162,6 +162,7 @@ UI/DailyChallenge/SupportersOnly=Thử thách chỉ dành<n/>cho người ủng 
 UI/Bonus/Title=Thưởng thêm
 UI/Bonus/Button=Thưởng
 UI/Bonus/Instructions=Nhận thêm vật phẩm rơi
+UI/Bonus/Instructions2=Trong một giờ đầu tiên bạn chơi mỗi ngày, bạn được nhận thêm cánh hoa rơi.
 UI/Bonus/Pill/Label={0}x
 UI/Bonus/Delay=Bạn có thể tái kích hoạt thưởng thêm sau {0:time}
 UI/Bonus/CurrentlyActive=Thưởng thêm sẽ kết thúc sau {0:time}
