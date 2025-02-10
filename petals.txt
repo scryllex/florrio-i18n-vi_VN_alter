@@ -83,7 +83,7 @@ Petals/pollen/Description=Cẩn thận nếu bạn bị hen suyễn.
 Petals/dandelion/Name=Bồ Công Anh
 Petals/dandelion/SortName=b*0o+2 c*0o+0n*0g*0 a*0n*0h*0
 Petals/dandelion/FullName=Bồ Công Anh
-Petals/dandelion/Description=Những tính chất đặc thù của hạt này kiến nó có thể giảm trị liệu của kẻ địch.<n/>Những kẻ địch bị ảnh hưởng bị giảm 20% Trị liệu. Có thể chồng lên nhau.
+Petals/dandelion/Description=Những tính chất đặc thù của hạt này khiến nó có thể giảm trị liệu của kẻ địch.<n/>Những kẻ địch bị ảnh hưởng bị giảm 20% Trị liệu. Có thể chồng lên nhau.
 Petals/dandelion/Type=plant
 
 Petals/beetle_egg/Name=Trứng
