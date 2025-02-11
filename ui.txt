@@ -167,7 +167,7 @@ UI/Bonus/Pill/Label={0}x
 UI/Bonus/Delay=Bạn có thể tái kích hoạt thưởng thêm sau {0:time}
 UI/Bonus/CurrentlyActive=Thưởng thêm sẽ kết thúc sau {0:time}
 UI/Bonus/Available=Bạn có thể kích hoạt thưởng thêm ngay bây giờ. Nó sẽ duy trì được {0:time}.
-UI/Bonus/AvailableExpiration=Néu bạn không kích hoạt thưởng thêm, nó sẽ được đặt lại sau {0:time}.
+UI/Bonus/AvailableExpiration=Nếu bạn không kích hoạt thưởng thêm, nó sẽ được đặt lại sau {0:time}.
 UI/Bonus/Activate=Kích hoạt
 UI/Bonus/Activate/Setting=Tự động kích hoạt
 
