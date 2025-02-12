@@ -73,7 +73,7 @@ UI/Death/Title=Bạn vừa bị tiêu diệt bởi:
 UI/Death/NoSource=Một thực thể bí ẩn
 UI/Death/Continue=Tiếp tục
 UI/Death/Close=Đóng
-UI/Death/CollectedThisRun=Vật phẩm lượt chơi này
+UI/Death/CollectedThisRun=Thu thập lượt chơi này
 
 UI/AFKCheck/Title=Kiểm Tra Treo Máy
 UI/AFKCheck/Instructions=Kéo vòng tròn đến cuối đường
