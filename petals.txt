@@ -582,3 +582,9 @@ Petals/mecha_missile/SortName=t*0e+0n*0 l*0u+3a*0 m*0a*1y*0
 Petals/mecha_missile/FullName=Tên Lửa Máy
 Petals/mecha_missile/Description=Khóa mục tiêu.
 Petals/mecha_missile/Type=thing1
+
+Petals/wax/Name=Sáp
+Petals/wax/FullName=Sáp
+Petals/wax/SortName=s*0a*1p*0
+Petals/wax/Description=Đừng thắc mắc rằng nó từ đâu đến.
+Petals/wax/Type=block2
