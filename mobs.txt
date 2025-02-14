@@ -306,6 +306,7 @@ Mobs/wasp_hel/Type=moveable
 
 Mobs/trader/Name=Thương Nhân
 Mobs/trader/SortName=t*0h*0u+0o-0n*0g*0 n*0h*0a-0n*0
+Mobs/trader/Description= 
 
 Mobs/gambler/Name=Con Bạc
 Mobs/gambler/SortName=c*0o*0n*0 b*0a*5c*0
@@ -314,6 +315,7 @@ Mobs/gambler/Spawn=Một thằng nghiện cờ bạc xuất hiện...
 
 Mobs/oracle/Name=Nhà Tiên Tri
 Mobs/oracle/SortName=n*0h*0a*2 t*0i*0e+0n*0 t*0r*0i*0
+Mobs/oracle/Description= 
 
 Mobs/firefly_magic/Name=Đom Đóm
 Mobs/firefly_magic/SortName=d+0o*0m*0 d+0o*1m*0
@@ -322,6 +324,7 @@ Mobs/firefly_magic/Type=moveable
 
 Mobs/titan/Name=Titan
 Mobs/titan/SortName=t*0i*0t*0a*0n*0
+Mobs/titan/Description= 
 
 Mobs/beetle_nazar/Name=Bọ Cánh Cứng
 Mobs/beetle_nazar/SortName=b*0o*5 c*0a*1n*0h*0 c*0u+1n*0g*0
