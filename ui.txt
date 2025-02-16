@@ -280,6 +280,9 @@ UI/Settings/AutoSearchPetals=Tự động tìm kiếm cánh hoa trong túi đồ
 
 UI/Settings/FixedJoystick=Cố định điều khiển
 
+UI/Settings/InvertAttack=Đảo ngược nút tấn công
+UI/Settings/InvertDefend=Đảo ngược nút phòng thủ
+
 UI/Settings/AutoSaveLoadout=Tự động lưu trang bị
 UI/Settings/AutoSaveLoadout/Help=Nếu tắt, ấn [O] để lưu trang bị hiện tại
 
