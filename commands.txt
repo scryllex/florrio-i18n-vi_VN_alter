@@ -66,6 +66,9 @@ Chat/Command/unblock/Description=Xóa ai đó khỏi danh sách chặn
 Chat/Command/unblock-all/Args=
 Chat/Command/unblock-all/Description=Xóa tất cả mọi người khỏi danh sách chặn
 
+Chat/Command/rot-speed/Args=<giá trị>
+Chat/Command/rot-speed/Description=Đặt tốc độ quay cánh hoa, từ 0.0 đến 1.0
+
 Chat/Command/print-players/Args=
 Chat/Command/print-players/Description=Liệt kê id tài khoản của những người chơi ở gần bạn
 
