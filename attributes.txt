@@ -105,3 +105,4 @@ Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">Điện:</c> {0:to
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Chi Phí Triệu Hồi:</c> {0:tooltip} <c val="{#Colors/mana}">Năng Lượng</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Chi Phí Duy Trì:</c> {0:tooltip} <c val="{#Colors/mana}">Năng Lượng</c>/giây
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Có tỉ lệ {0:perc}% để nhận thêm cánh hoa rơi từ quái.</c>
+Petal/Attribute/Reload=<c val="{#Colors/generic}">Thời gian tái tạo:</c> -{0:perc}%

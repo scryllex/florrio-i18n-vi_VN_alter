@@ -588,3 +588,9 @@ Petals/wax/FullName=Sáp
 Petals/wax/SortName=s*0a*1p*0
 Petals/wax/Description=Đừng thắc mắc rằng nó từ đâu đến.
 Petals/wax/Type=block2
+
+Petals/golden_leaf/Name=Lá
+Petals/golden_leaf/FullName=Lá Vàng
+Petals/golden_leaf/SortName=l*0a*1 v*0a*2n*0g*0
+Petals/golden_leaf/Description=Một chiếc lá rất đặc biệt, dường như nó giúp bạn dùng các cánh hoa khác hiệu quả hơn.
+Petals/golden_leaf/Type=thing1
