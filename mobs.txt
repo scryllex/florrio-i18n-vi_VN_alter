@@ -355,3 +355,8 @@ Mobs/spider_mecha/Name=Nhện
 Mobs/spider_mecha/SortName=n*0h*0e+5n*0
 Mobs/spider_mecha/Description=Một con nhện máy đáng sợ.
 Mobs/spider_mecha/Type=moveable
+
+Mobs/leafbug_shiny/Name=Bọ Lá
+Mobs/leafbug_shiny/SortName=b*0o*5 l*0a*1
+Mobs/leafbug_shiny/Description=Cái lá này có màu đặc biệt...
+Mobs/leafbug_shiny/Type=moveable
