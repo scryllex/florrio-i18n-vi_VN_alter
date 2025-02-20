@@ -30,6 +30,7 @@ Classify/Petal/flat1= tấm
 Classify/Petal/flat2= mảnh
 Classify/Petal/seed= hạt
 Classify/Petal/tubber= củ
+Classify/Petal/leaf= chiếc
 
 Chat/MobSpawnedHere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
 Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}

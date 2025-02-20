@@ -126,7 +126,7 @@ Petals/leaf/Name=Lá
 Petals/leaf/SortName=l*0a*1
 Petals/leaf/FullName=Lá
 Petals/leaf/Description=Hấp thụ năng lượng từ mặt trời để trị liệu bông hoa của bạn một cách thụ động.
-Petals/leaf/Type=thing1
+Petals/leaf/Type=leaf
 
 Petals/salt/Name=Muối
 Petals/salt/SortName=m*0u*0o+1i*0
@@ -509,7 +509,7 @@ Petals/magic_leaf/Name=Lá
 Petals/magic_leaf/SortName=l*0a*1 m*0a*0 t*0h*0u*0a-5t*0
 Petals/magic_leaf/FullName=Lá Ma Thuật
 Petals/magic_leaf/Description=Thu thập {#Attribute/ManaNoColon} từ môi trường xung quanh một cách thụ động.
-Petals/magic_leaf/Type=thing1
+Petals/magic_leaf/Type=leaf
 
 Petals/magic_cactus/Name=Xương Rồng
 Petals/magic_cactus/SortName=x*0u+0o-0n*0g*0 r*0o+2n*0g*0 m*0a*0 t*0h*0u*0a-5t*0
@@ -593,4 +593,16 @@ Petals/golden_leaf/Name=Lá
 Petals/golden_leaf/FullName=Lá Vàng
 Petals/golden_leaf/SortName=l*0a*1 v*0a*2n*0g*0
 Petals/golden_leaf/Description=Một chiếc lá rất đặc biệt, dường như nó giúp bạn dùng các cánh hoa khác hiệu quả hơn.
-Petals/golden_leaf/Type=thing1
+Petals/golden_leaf/Type=leaf
+
+Petals/cog/Name=Răng
+Petals/cog/FullName=Bánh Răng
+Petals/cog/SortName=b*0a*1n*0h*0 r*0a+0n*0g*0
+Petals/cog/Description=Dường như không làm gì cả...
+Petals/cog/Type=thing1
+
+Petals/monstera/Name=Trầu
+Petals/monstera/FullName=Trầu Bà
+Petals/monstera/SortName=t*0r*0a-2u*0 b*0a*2
+Petals/monstera/Description=Hồi máu cho những bông hoa xung quanh.<n/>Hiệu quả giảm dần dựa trên khoảng cách đến cánh hoa.
+Petals/monstera/Type=leaf
