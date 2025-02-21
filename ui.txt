@@ -8,6 +8,7 @@ UI/Title/LoggingIn=Đang đăng nhập...
 UI/Title/Ready=Sẵn sàng
 UI/Title/GuestName=Khách
 UI/Title/GuestLimitation=Bạn có thể đặt biệt danh khi bạn liên kết tài khoản hoặc đạt đến cấp {0}.
+UI/Title/LockedInHel=Bạn bị giam ở trong Hel trong vòng {0:time}.
 UI/Title/Name/Title=Bông hoa nhỏ nhắn xinh xắn này mang tên...
 UI/Title/Name/Rules1=Tên phải bao gồm chữ và số hoặc {2}, và chứa {0}~{1} kí tự.
 UI/Title/Name/Rules2=Phải chứa ít nhất {0} kí tự chữ và số.
@@ -191,6 +192,7 @@ UI/Achievements/Name={#Achievements/{0}/Name:1-}
 UI/Achievements/SortName={#Achievements/{0}/Name:1-}
 UI/Achievements/Description={#Achievements/{0}/Description:1-}
 UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+UI/Achievements/Rarity={#UI/Petal/Rarity}
 
 UI/Talent/Title=Thiên Phú
 UI/Talent/Name={#Talents/{0}/Name:1-}
@@ -278,6 +280,9 @@ UI/Settings/MovementHelper=Trợ giúp di chuyển
 UI/Settings/AutoSearchPetals=Tự động tìm kiếm cánh hoa trong túi đồ
 
 UI/Settings/FixedJoystick=Cố định điều khiển
+
+UI/Settings/InvertAttack=Đảo ngược nút tấn công
+UI/Settings/InvertDefend=Đảo ngược nút phòng thủ
 
 UI/Settings/AutoSaveLoadout=Tự động lưu trang bị
 UI/Settings/AutoSaveLoadout/Help=Nếu tắt, ấn [O] để lưu trang bị hiện tại

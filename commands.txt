@@ -66,6 +66,9 @@ Chat/Command/unblock/Description=Xóa ai đó khỏi danh sách chặn
 Chat/Command/unblock-all/Args=
 Chat/Command/unblock-all/Description=Xóa tất cả mọi người khỏi danh sách chặn
 
+Chat/Command/rot-speed/Args=<giá trị>
+Chat/Command/rot-speed/Description=Đặt tốc độ quay cánh hoa, từ 0.0 đến 1.0
+
 Chat/Command/print-players/Args=
 Chat/Command/print-players/Description=Liệt kê id tài khoản của những người chơi ở gần bạn
 
@@ -171,3 +174,6 @@ Chat/Command/purge-contagious-corruption/Description=End the plague
 
 Chat/Command/calculate-next-shop/Args=<petal:rarity> [min discount level 0~3]
 Chat/Command/calculate-next-shop/Description=Calculates in how many periods the petal will appear in shop
+
+Chat/Command/lock-in-hel/Args=<target>
+Chat/Command/lock-in-hel/Description=Locks player in Hel for 1 hour
