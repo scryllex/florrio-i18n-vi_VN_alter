@@ -6,9 +6,9 @@ Maps/ant_hole3/Name=Tổ Kiến
 Maps/ant_hole4/Name=Tổ Kiến
 Maps/ant_hole5/Name=Tổ Kiến
 
-Maps/battle_ground/Name=Chiến Trường
-
 Maps/desert/Name=Sa Mạc
+
+Maps/factory/Name=Nhà máy
 
 Maps/garden/Name=Khu Vườn
 
