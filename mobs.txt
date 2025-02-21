@@ -358,5 +358,5 @@ Mobs/spider_mecha/Type=moveable
 
 Mobs/leafbug_shiny/Name=Bọ Lá
 Mobs/leafbug_shiny/SortName=b*0o*5 l*0a*1
-Mobs/leafbug_shiny/Description=Cái lá này có màu đặc biệt...
+Mobs/leafbug_shiny/Description=Con này có màu khá là đặc biệt...
 Mobs/leafbug_shiny/Type=moveable

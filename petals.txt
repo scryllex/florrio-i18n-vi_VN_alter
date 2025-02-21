@@ -584,8 +584,8 @@ Petals/mecha_missile/Description=Khóa mục tiêu.
 Petals/mecha_missile/Type=thing1
 
 Petals/wax/Name=Sáp
-Petals/wax/FullName=Sáp
-Petals/wax/SortName=s*0a*1p*0
+Petals/wax/FullName=Sáp Ong
+Petals/wax/SortName=s*0a*1p*0 o*0n*0g*0
 Petals/wax/Description=Đừng thắc mắc rằng nó từ đâu đến.
 Petals/wax/Type=block2
 
