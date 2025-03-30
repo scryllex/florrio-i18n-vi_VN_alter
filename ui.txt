@@ -70,6 +70,10 @@ UI/Flower/Level=Cấp {0}
 UI/Damage/Evade=Vô hiệu
 UI/Damage/Miss=Trượt
 
+UI/Dummy/Last=Mới nhất: {0:tooltip}
+UI/Dummy/Total=Tổng: {0:tooltip}
+UI/Dummy/DPS=DPS: {0:tooltip}
+
 UI/Death/Title=Bạn vừa bị tiêu diệt bởi:
 UI/Death/NoSource=Một thực thể bí ẩn
 UI/Death/Continue=Tiếp tục
@@ -90,8 +94,10 @@ UI/Achievements/TotalProgress=Đã hoàn thành {0}/{1}
 UI/Achievements/UnlockedNotification=Đã mở khoá thành công
 
 UI/MobGallery/Title=Trưng Bày
+
 UI/Changelog/Title=Lịch Sử Cập Nhật
 UI/Changelog/Bottom=Không có lịch sử cũ hơn
+
 UI/Inventory/Title=Túi Đồ
 UI/Inventory/Stack=Xếp chồng
 UI/Inventory/Instructions=Kéo thả cánh hoa để trang bị
@@ -187,6 +193,8 @@ UI/Mob/Description={#Mobs/{0:base}/Description}
 UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
 
 UI/Map/Name={#Maps/{0}/Name}
+UI/Map/Changing={#Maps/{0}/Changing#UI/Map/Changing/generic}
+UI/Map/Changing/generic=Something is happening...
 
 UI/Achievements/Name={#Achievements/{0}/Name:1-}
 UI/Achievements/SortName={#Achievements/{0}/Name:1-}
@@ -231,6 +239,10 @@ UI/UniqueCraft/Title=Luyện Kim
 UI/UniqueCraft/Button=Rèn
 UI/UniqueCraft/Instructions=Những cánh hoa {#Rarities/unique/Name} sẽ tồn tại cho đến khi<n/>người chơi khác rèn cánh hoa cùng loại.<n/>Khi đó, bạn sẽ được trả lại những cánh hoa {#Rarities/super/Name}.<n/>Chi phí rèn sẽ tăng cho mỗi lần rèn loại cánh hoa đó.
 UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa {#Rarities/super/Name} nào để chế tạo.
+
+UI/AssemblerCraft/Title=Lắp Ráp
+UI/AssemblerCraft/Button=Lắp Ráp
+UI/AssemblerCraft/Instructions=Gom các cánh hoa thích hợp để lắp ráp một cánh hoa mới.
 
 UI/Death/Poison=Ngộ độc
 

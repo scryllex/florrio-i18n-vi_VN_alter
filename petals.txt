@@ -550,7 +550,7 @@ Petals/magic_bubble/Type=sphere
 Petals/nazar/Name=Nazar
 Petals/nazar/SortName=n*0a*0z*0a*0r*0
 Petals/nazar/FullName=Bùa Nazar
-Petals/nazar/Description=Giảm 98% sát thương của một đòn.
+Petals/nazar/Description=Giảm 98% sát thương của mỗi đòn.
 Petals/nazar/Type=thing1
 
 Petals/mimic/Name=Mạo Danh
@@ -597,7 +597,7 @@ Petals/golden_leaf/Type=leaf
 
 Petals/cog/Name=Răng
 Petals/cog/FullName=Bánh Răng
-Petals/cog/SortName=b*0a*1n*0h*0 r*0a+0n*0g*0
+Petals/cog/SortName=r*0a+0n*0g*0
 Petals/cog/Description=Dường như không làm gì cả...
 Petals/cog/Type=thing1
 
@@ -606,3 +606,32 @@ Petals/monstera/FullName=Trầu Bà
 Petals/monstera/SortName=t*0r*0a-2u*0 b*0a*2
 Petals/monstera/Description=Hồi máu cho những bông hoa xung quanh.<n/>Hiệu quả giảm dần dựa trên khoảng cách đến cánh hoa.
 Petals/monstera/Type=leaf
+
+Petals/mecha_antennae/Name=Ăng-ten
+Petals/mecha_antennae/FullName=Ăng-ten
+Petals/mecha_antennae/SortName=a+0n*0g*0-t*0e*0n*0
+Petals/mecha_antennae/Description=Giúp bạn phát giác kẻ thù từ xa.<n/>Nó cũng có đèn đỏ nhấp nháy trên cùng.
+Petals/mecha_antennae/Type=thing1
+
+Petals/laser/Name=Laser
+Petals/laser/FullName=Tia Laser
+Petals/laser/SortName=l*0a*0s*0e*0r*0
+Petals/laser/Description=Chíu chíu.
+Petals/laser/Type=thing1
+
+Petals/domino/Name=Domino
+Petals/domino/FullName=Domino
+Petals/domino/SortName=d*0o*0m*0i*0n*0o*0
+Petals/domino/Description=Sát thương dựa trên số chấm nó có.
+Petals/domino/Type=thing1
+
+Petals/bandage/Name=Băng
+Petals/bandage/FullName=Băng Cấp Cứu
+Petals/bandage/SortName=b*0a+0n*0g*0 c*0a-1p*0 c*0u+1u*0
+Petals/bandage/Description=Biến bông hoa thành <c val="{#Colors/undead}">Xác Sống</c> trong một khoảng thời gian nhất định sau khi chết.<n/>Trì hoãn cái chết cho đến khi hết hạn<n/>Ngăn chặn việc hồi sinh trong một khoảng thời gian sau đó.
+Petals/bandage/Type=thing1
+
+Petals/crown/Name=Vương Miện
+Petals/crown/FullName=Vương Miện của Pharaoh
+Petals/crown/Description=Triệu hồi những con Bọ Cánh Cứng <c val="{#Colors/undead}">Xác Sống</c> để sát cánh cùng bạn.
+Petals/crown/Type=thing1
